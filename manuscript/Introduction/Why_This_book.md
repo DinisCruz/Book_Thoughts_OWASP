@@ -14,10 +14,11 @@ Here are the posts removed:
 
 * posts about specific OWASP projects 
  * "Another step in the use of ESAPI and AppSensor Jars from .Net/C# (using Jni4Net) "
+ * "Loading OWASP ESAPI jar and its dependencies from C# (using jni4net)"
  * "Creating a clone of WebGoat on GitHub"
  * "Help out with WebGoat .NET development"
  * "Is this a safe way to do a .NET Server Redirects? (and deal with A10: Unvalidated Redirects and Forwards)"
- 
+
 * posts about specific OWASP Events (most of which are now not relevant)
  * "Call For Training - OWASP 2013 LATAM Tour"
 

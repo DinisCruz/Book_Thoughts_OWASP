@@ -4,51 +4,24 @@
 
 A bit late (deadline for submission is today) but are my notes on the version currently at [http://projects.webappsec.org/w/page/41188978/Static%20Analysis%20Tool%20Evaluation%20Criteria](http://projects.webappsec.org/w/page/41188978/Static%20Analysis%20Tool%20Evaluation%20Criteria)  
 
-
-  
-
-
 My comments/notes are marked as _Conted to add in underscore, bold and Italic_ or **_[content to be deleted in red]_**  
-
-
-  
-
 
 When I wanted to make a comment on particular change or deletion, I did it on a new line:
 
-  
-
-
 _DC Comment: ... a comment goes here in dark blue_
-
-  
-
 
 Of course that this is my opinion, and these notes are based on the notes I took in 'analogue mode' (i.e. on paper :)  )  
 
 
 --------------------------------------------------------  
 
-
-  
-
-
 **Table of Contents:**
-
-  
-
 
 **Introduction:**
 
-  
-
-
 Static Code Analysis is the analysis of software code **_[without actually executing the binaries resulting from this code]_**. 
 
-  
-
-
-_DC Comment: we don't need the extra definition, since it is possible to do static code analysis based on information/code/metadata obtained at run-time or via selective execution/simulation of the code/binaries. The key concept is that static analysis is about analysing and applying rules to a set of artefacts that have been extracted from the target application. From this point of view, we can do static analysis on an AST (extracted from source code), an intermediate representation (extracted from a .net or java binary) or run-time traces (extracted from a running application). We can also do static analysis on an application config files, on an application's authorisation model or even on application specific data (for example the security controls applied to a particular asset)_
+>_DC Comment: we don't need the extra definition, since it is possible to do static code analysis based on information/code/metadata obtained at run-time or via selective execution/simulation of the code/binaries. The key concept is that static analysis is about analysing and applying rules to a set of artefacts that have been extracted from the target application. From this point of view, we can do static analysis on an AST (extracted from source code), an intermediate representation (extracted from a .net or java binary) or run-time traces (extracted from a running application). We can also do static analysis on an application config files, on an application's authorisation model or even on application specific data (for example the security controls applied to a particular asset)_
 
   
 
