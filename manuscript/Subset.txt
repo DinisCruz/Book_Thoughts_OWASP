@@ -7,10 +7,23 @@ Introduction/Why_This_book
 
 {mainmatter}
 
-#Sec Industry
+# Sec Industry
 Sec_Industry/Blogger_in_HTTP_only_What_Happened_to_HTTPS.md
 Sec_Industry/Etsy.com_-_A_case_study_on_how_to_do_security_right.md
 
-#TeamMentor
+
+# OWASP Organization
+
+OWASP Organization/An_Idea_of_a_New_Model_for_owasp.md
+OWASP Organization/Improved_Wikipedia_funding_page_why_OWASP_needs_something_similar_and_who_buys_OWASP_Corporate_Memberships.md
+
+# OWASP MIA
+
+OWASP MIA/Big_Security_Challenges_with_Creating_APIs_for_US_Gov_Agencies.md
+OWASP MIA/Example_example_of_SQL_Injection_using_Database.SQLQuery_from_GitHub.md
+OWASP MIA/Guidelines_of_Owasp.md
+OWASP MIA/Hack_Yourself_First_Jeremiah_at_TEDxMaui.md
+
+# TeamMentor
 
 TeamMentor/Is the TeamMentor OWASP Library content released under an open License.md
