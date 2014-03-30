@@ -4,16 +4,10 @@ Following the [FLOSSHack TeamMentor](http://diniscruz.blogspot.com/2012/11/floss
 
 And the answer is: **YES**  
 
-
-  
-
-
 Here is the repository for the XML files: [https://github.com/TeamMentor-OWASP/Library_OWASP](https://github.com/TeamMentor-OWASP/Library_OWASP)
 
-  
 There are a bunch of (O2 based) tools to consume this content directly, or alternatively you can use the [TeamMentor CoreLib from NuGet](http://nuget.org/packages/TeamMentor.CoreLib) (which has all the classes and APIs needed)
 
-  
 Note that you can also link directly to the content (articles, libraries, folders or views) :
 
   * by title [https://owasp.teammentor.net/article/How_to_Protect_From_Injection_Attacks_in_ASP.NET](https://owasp.teammentor.net/article/How_to_Protect_From_Injection_Attacks_in_ASP.NET)
@@ -35,8 +29,5 @@ In addition to the 'article' pages (linked above) you can also see/consume the c
   * **wsdl**: [http://owasp.teammentor.net/aspx_pages/tm_Webservices.asmx](http://owasp.teammentor.net/aspx_pages/tm_Webservices.asmx)  - note: if you want to fuzz this, I can set-up a dedicated cloud version for you (on AppHarbor or Azure)
 
 For reference the TM Documentation is at: [https://docs.teammentor.net](https://docs.teammentor.net/) 
-
-  
-
 
 The page [https://docs.teammentor.net/xml/Eval](https://docs.teammentor.net/xml/Eval) contains 4 videos and a download link (that points to the GitHub version) which allow you to run TM locally (btw look at the source code of that page and see some XML+XSL foo action :) )

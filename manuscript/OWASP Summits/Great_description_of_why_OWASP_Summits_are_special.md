@@ -2,16 +2,7 @@
 
 Abe (on the owasp-leaders list) just posted the text below in response to my [Summits must be part of OWASP's DNA](http://diniscruz.blogspot.co.uk/2012/04/summits-must-be-part-of-owasps-dna.html) reply and it provides one of the best descriptions of what makes Owasp Summit's special and worthwhile doing (please read it).  
 
-
-  
-
-
 If you've never been to one of our Summits, this is why they are so important and necessary (Imagine what we could achieve with regular Summits)
-
-  
-
-
-  
 On 6 Apr 2012, at 18:14, Abraham Kang <[abraham.kang@owasp.org](mailto:abraham.kang@owasp.org)> wrote:
 
 > Although, I agree with Jim in spirit.  
@@ -89,6 +80,3 @@ On 6 Apr 2012, at 18:14, Abraham Kang <[abraham.kang@owasp.org](mailto:abraham.k
 
 > 
 > Sorry for being so long winded.
-
-  
-

@@ -8,14 +8,9 @@ The objective was to empower the leaders to spent the funds available to OWASP s
 
 I'm not sure how much funds have been spent over the last couple years, but I don't think that it is a lot, specially if we don't count the amounts used by the last Summit  
 
-
-  
-
-
 In fact, the 160k USD currently available, shows that the model is not working as well as it should, i.e. OWASP leaders are not spending (i.e. investing) the money make available to them!
 
 I think there are two reasons for it:  
-
 
   1. spending money in an organization like OWASP is not easy
   2. there is an idea that 'money should be kept' in the bank since it is not wise to spend it all (i.e. be fiscally conservative)

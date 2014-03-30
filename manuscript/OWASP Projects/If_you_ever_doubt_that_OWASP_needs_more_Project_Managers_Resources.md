@@ -6,7 +6,6 @@ Like [Samantha Groves](https://www.owasp.org/index.php/User:Samantha_Groves)  :
 
 Then you should read these amazing monthly reports (written by Samantha)  
 
-
   * [OWASP Project Manager Activity Reports/April 05 2013](https://www.owasp.org/index.php/OWASP_Project_Manager_Activity_Reports/April_05_2013)
   * [OWASP Project Manager Activity Reports/March 11 2013](https://www.owasp.org/index.php/OWASP_Project_Manager_Activity_Reports/March_11_2013)
   * [OWASP Project Manager Activity Reports/February 11 2013](https://www.owasp.org/index.php/OWASP_Project_Manager_Activity_Reports/February_11_2013)

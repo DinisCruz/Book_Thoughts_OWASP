@@ -6,9 +6,6 @@ Not only his presentation style is great, I think he is completely right.
 
 Specially on the part that 'happiness' is a habit and needs to be constantly exercised.
 
-  
-
-
 From a business or organisational point of view, this means that it should be a 'corporate' objective to deliver happiness to its players (employees, members, clients, partners, etc...)
 
 They should do this not because it is 'nice', but because it makes business sense.

@@ -2,21 +2,15 @@
 
 Just went to Wikipedia and saw this:
 
-  
-
-
 [![](images/Screen_Shot_2012-11-16_at_11_03_57.png)](http://4.bp.blogspot.com/-0SfJKHi8gP4/UKYd4rx9CrI/AAAAAAAACD8/aqp3dgzNJ2U/s1600/Screen+Shot+2012-11-16+at+11.03.57.png)
 
-  
 which just sounded fair (and much better that looking at [Jimmy's eyes](http://readwrite.com/2010/11/19/wikipedia_has_raised_in_a_week_what_took_a_month_i) :) ), so I clicked on the **Please Help **Button and used Paypal to help with       £20:
 
 [![](images/Screen_Shot_2012-11-16_at_11_05_52.png)](http://2.bp.blogspot.com/-bmqbyV2b5zI/UKYhgnUCbhI/AAAAAAAACFE/ez5CYznEbDs/s1600/Screen+Shot+2012-11-16+at+11.05.52.png)
 
-  
 and since it was so easy to retweet, I also did that too :)
 
 [![](images/Screen_Shot_2012-11-16_at_11_06_14.png)](http://3.bp.blogspot.com/-uEVFXTsRlU4/UKYhhyvMcEI/AAAAAAAACFM/gIXv0jQQqmI/s1600/Screen+Shot+2012-11-16+at+11.06.14.png)
-
   
 I think it is very important for Wikipedia to have [a funding model](http://www.economist.com/node/21536580) that keeps [it ad free](http://readwrite.com/2011/01/01/wikipedia_raises_16_million_to_remain_ad-free) and comes directly from it's users (which means that the '_Wikipedia Users_' are the '_Wikipedia Customers_' instead of being the '_Wikipedia Product_' (which btw, is what users are for Google, Facebook, Twitter, etc..)).
 
@@ -25,8 +19,8 @@ In fact that is why it was such an easy decision for me to 'help' (which is a be
 Now OWASP really needs to figure out a similar model, since the current membership model works OKish but creates massive conflicts of interrest.
 
 **Ideally OWASP should be funded by its users, not by the companies that provides services to its users.**  
-**  
-**Of course that there are some exceptions (like Mozilla) but if you look at the [shopping list of logos that is the membership page](https://www.owasp.org/index.php/Membership) that is a massive security product/vendor collection.
+
+Of course that there are some exceptions (like Mozilla) but if you look at the [shopping list of logos that is the membership page](https://www.owasp.org/index.php/Membership) that is a massive security product/vendor collection.
 
 And btw, I think the time as come to remove the OWASP Membership logos from the HomePage, its getting ridiculous:
 
@@ -34,20 +28,11 @@ And btw, I think the time as come to remove the OWASP Membership logos from the 
 
 [![](images/Screen_Shot_2012-11-16_at_11_28_22.png)](http://2.bp.blogspot.com/-NSAITD6-qXw/UKYjjTEl_AI/AAAAAAAACFc/eap-Quafns4/s1600/Screen+Shot+2012-11-16+at+11.28.22.png)
 
-  
-
-
 [![](images/Screen_Shot_2012-11-16_at_11_28_32.png)](http://2.bp.blogspot.com/-swb7da0Vrv0/UKYjlVBiZLI/AAAAAAAACFk/Tr-b5jOrhaE/s1600/Screen+Shot+2012-11-16+at+11.28.32.png)
 
-  
-
-
-  
-
-
 _Are we really THAT independent and vendor neutral?_  
-_  
-_Here is an interesting question (since OWASP generates revenue and is profitable):** WHO and WHAT are OWASP's product? I.e. what is OWASP really selling? **
+
+Here is an interesting question (since OWASP generates revenue and is profitable):** WHO and WHAT are OWASP's product? I.e. what is OWASP really selling? **
 
 As an OWASP **Leader**, am I the product? or the customer?  
 As an OWASP **User**, am I the product? or the customer?  

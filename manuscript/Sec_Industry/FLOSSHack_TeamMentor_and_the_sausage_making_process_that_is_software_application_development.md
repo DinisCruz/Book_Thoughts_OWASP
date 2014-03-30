@@ -8,22 +8,12 @@ _See [FLOSSHack_One](https://www.owasp.org/index.php/FLOSSHack_One) for the deta
 
 OWASP's [FLOSSHack](https://www.owasp.org/index.php/FLOSSHack) is one of those 'magical' spaces where the OWASP's community and its projects can come together and add a lot of value.  
 
-
-  
 In fact I remember the idea of doing something like this at the last Summit(s) but we couldn't find a FLOSS or commercial vendor that wanted to 'play the game' :)
 
   
-
-
 And, just for record, I will be happy to help if an OWASP chapter (or University)  wants to do a similar FLOSSHack on [TeamMentor](http://owasp.teammentor.net/) 
 
-  
-
-
 Although TeamMentor (TM) is not OpenSource, it is very close, since the [source code is available](https://github.com/TeamMentor-OWASP/Master) and SI allowed me to 'open it' as much (if not more) as other OpenSource projects (note that TeamMentor uses O2 Platform's [FluentSharp APIs](https://nuget.org/packages?q=fluentsharp), and there has been significant changes/features in the [latest version of O2](http://diniscruz.blogspot.co.uk/p/owasp-o2-platform.html) which are a direct consequence of my TeamMentor development activities (for example the [O2 VisualStudio Extension](http://visualstudiogallery.msdn.microsoft.com/295fa0f6-37d1-49a3-b51d-ea4741905dc2) or the  [Real-Time Vulnerability Feedback in VisualStudio](http://diniscruz.blogspot.co.uk/p/real-time-vulnerability-feedback-in.html) PoC)).
-
-  
-
 
 I'm quite proud of the level of openness that TM has, and I hope that other commercial tools follow these ideas/activities. Here are a couple blog posts I wrote about TM's Security:
 
@@ -53,22 +43,10 @@ Note that we really embraced Git and GitHub as part of TeamMentor's development 
 
 My objective is to create a super secure+powerful application, with maximum visibility+openness, while creating documentation on how it happened (which you can see by the current blog posts)
 
-  
-
-
 I think that TeamMentor is a good case study for the challenges of writing secure code, since it is a real-world app, with real-world complexity, real-world legacy stuff and real-world security compromises. This is a great learning opportunity to **look at the 'sausage making process' that is software/application developmen**t (with a bunch of  .Net, Asmx, jQuery, Javascript, and  xml files which can be easily deployed to the 'cloud'). We always talk how OWASP needs to engage with developers, work with them, help them to secure the app.... well here is a good opportunity to do just that. 
-
-  
-
 
 **I want/need help in securing TeamMentor, and Its not an easy task :)**
 
-  
-
-
 One area that I really want to move next, is the implementation of AppSensor-like-capabilities so that malicious activities can be detected and mitigated
-
-  
-
 
 Oh, and I could really do with a good layer of .NET ESAPI controls/capabilities :)

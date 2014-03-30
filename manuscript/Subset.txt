@@ -1,0 +1,16 @@
+
+{frontmatter}
+
+Introduction/Introduction.md
+Introduction/Change_Log.md
+Introduction/Why_This_book
+
+{mainmatter}
+
+#Sec Industry
+Sec_Industry/Blogger_in_HTTP_only_What_Happened_to_HTTPS.md
+Sec_Industry/Etsy.com_-_A_case_study_on_how_to_do_security_right.md
+
+#TeamMentor
+
+TeamMentor/Is the TeamMentor OWASP Library content released under an open License.md
