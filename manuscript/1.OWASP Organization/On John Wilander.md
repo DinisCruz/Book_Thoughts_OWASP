@@ -1,4 +1,4 @@
-On John Wilander##  On John Wilander.... 
+##  On John Wilander.... 
 
 John asked me this today via linkedIn to write a recommendation for him:  
 
@@ -9,10 +9,7 @@ _As I wrote on the leaders list I'm no longer co-leader of OWASP Sweden as of th
 
 Thanks in advance! 
 
-_  
-
-
-_-John Wilander_
+-John Wilander_
 
   
 Which of course I was happy to do.
