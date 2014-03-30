@@ -2,40 +2,23 @@
 
 I wrote the text below in 11/Mar/12 and sent it originally to the OWASP Summit 2013 mailing list ([you can see some comments to it there](https://groups.google.com/a/owasp.org/group/owasp-summit-2013/browse_thread/thread/fff1b9a4cf1eeaad)) and with the recent [Cancelation of the OWASP Summit 2013](https://groups.google.com/a/owasp.org/group/owasp-summit-2013/browse_thread/thread/938e40b807dd5cd9?hl=en#) announcement, I wanted to write a number of blog posts about OWASP Summits (so here is the first one)  
 
-
-  
----------------------------------------------------
+- - - 
 
 **Subject: I want to vote for a Summit Team+Vision , NOT for a venue**
 
 Following the Summit call on Friday I finally realized what was worrying me with the current Summit 2013 planning process: **we are being asked to vote/select a venue, before we have chosen: **
 
-**  a) who is going to lead the summit team, **  
-**  b) what is its vision and **  
-**  c) what team/energy can they generate.**
-
-  
-
+* **a) who is going to lead the summit team,**  
+* **b) what is its vision and **  
+* **c) what team/energy can they generate.**
 
 When I asked at the end of the call _"so who is going to be the leadership team of the Summit since that should be different depending on which venue is selected?" _I got the answer "_..this time is going to be different.. this whole group (on the Summit mailing list) is that leadership team, and it doesn't matter where the venue is, once it is chosen, we are all in charge..."_
 
-  
-
-
 Now I am the first to want open solutions, **but you don't organize a Summit by Committee** (in fact you don't even do it for conferences, chapters or projects).
-
-  
-
 
 There needs to be a core leadership team (1 to 4) that is all in sync with their vision for the Summit. Of course that we want as many OWASP leaders to be involved, BUT, there needs to be a core team with the vision and authority to make decisions, mainly because some of the decisions cannot be realistically made by a bigger group (not to say that the bigger group shouldn't be involved, but there are moments when decisions need to be made, and not everybody will have the same opinion/vision on the best course of action).
 
-  
-
-
 Just to be clear this is what I would like to be asked to vote on.
-
-  
-
 
 **A 'Summit Proposal' with:**
 
@@ -68,23 +51,11 @@ Just to be clear this is what I would like to be asked to vote on.
 
 In this model, an owasp leader could be part of multiple teams (since the objective is the get the best out of available resources). For example, given their past involvement+contributions of (just to name a few) Lorna, Jason, Justin, John W, Jeff W, Colin W, Jim M, etc... , it would be crazy to not have them involved in these teams (even if only as 'advisers').
 
-  
-
-
 I'm very happy that after two Summits there is so much energy behind having another Summit, but we need to do this right.
-
-  
-
 
 Now, at the moment we have two realistic proposals for the Summit (Royal Holloway and Boat) which come from two different points of view (and visions) for what the Summit should be. The other proposals are either not realistic or too far away (we can't have a Summit that takes 20h+ to get to from Europe, US or Asia)
 
-  
-
-
 For the record, **I am not going to vote on the two venue proposals** since both have what I consider to be 'show stoppers'. We have talked about the positives of each venue, so there is no need to repeat them.
-
-  
-
 
 **'Show stoppers for Royal Holloway'**
 
@@ -111,13 +82,7 @@ For the record, **I am not going to vote on the two venue proposals** since both
 
 * **No experience at OWASP in doing an event on a boat** - regardless of how much research we can do before hand, as far as I know there has been no previous events organized by owasp at a boat. This menas that the number of unknowns is even bigger.
 
-  
-
-
 Moving forward, I think we have two options:
-
-  
-
 
 **Option A) go with the Boat option**
 
@@ -133,10 +98,4 @@ Moving forward, I think we have two options:
 
 Sorry for not raising these issues before, but only on the last couple days I was able to rationalize my worries about the current Summit 2013 process, which come down to this simple concept:
 
-  
-
-
 > **I want to vote on a Summit Team+Vision, not on a Venue**
-
-  
-

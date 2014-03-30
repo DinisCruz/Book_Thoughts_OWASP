@@ -1,8 +1,6 @@
 ##  I wish that OWASP in 2014 .... 
 
 In 2014, it would be amazing if OWASP  has:  
-  
-
 
   * an environment where:
 
@@ -68,15 +66,12 @@ In 2014, it would be amazing if OWASP  has:
 
 The best part is that this is all doable because OWASP already has enough funds, community, brand and people to kickstart this.
 
-  
-
-
 The question is if the focus/energy is there....
 
 UPDATE: Related posts written after this one (see also the posts tagged with the [OWASP label](http://blog.diniscruz.com/search/label/OWASP))
 
-  * Jan 2013: [OWASP Principles based on NHS?](http://blog.diniscruz.com/2013/01/owasp-principles-based-on-nhs.html) 
-  * Jan 2013: [On how to get paid to work on OWASP projects ](http://blog.diniscruz.com/2013/01/on-how-to-get-paid-to-work-on-owasp.html)
-  * Dec 2012: [OWASP Revenue Splits and the "Non-profits have a charter to be innovators"](http://blog.diniscruz.com/2012/12/owasp-revenue-splits-and-non-profits.html)
-  * Nov 2011: [Improved Wikipedia funding page, why OWASP needs something similar, and who buys OWASP Corporate Memberships](http://blog.diniscruz.com/2012/11/improved-wikipedia-funding-page-why.html) 
-  * Nov 2011: [The difference between being 'Appointed' and being 'Accepted' as an OWASP Leader (of its Fork) ](http://blog.diniscruz.com/2012/11/the-difference-between-being-appointed.html) 
+* Jan 2013: [OWASP Principles based on NHS?](http://blog.diniscruz.com/2013/01/owasp-principles-based-on-nhs.html) 
+* Jan 2013: [On how to get paid to work on OWASP projects ](http://blog.diniscruz.com/2013/01/on-how-to-get-paid-to-work-on-owasp.html)
+* Dec 2012: [OWASP Revenue Splits and the "Non-profits have a charter to be innovators"](http://blog.diniscruz.com/2012/12/owasp-revenue-splits-and-non-profits.html)
+* Nov 2011: [Improved Wikipedia funding page, why OWASP needs something similar, and who buys OWASP Corporate Memberships](http://blog.diniscruz.com/2012/11/improved-wikipedia-funding-page-why.html) 
+* Nov 2011: [The difference between being 'Appointed' and being 'Accepted' as an OWASP Leader (of its Fork) ](http://blog.diniscruz.com/2012/11/the-difference-between-being-appointed.html) 

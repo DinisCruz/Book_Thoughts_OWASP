@@ -16,9 +16,10 @@ Here are the posts removed:
  * "Another step in the use of ESAPI and AppSensor Jars from .Net/C# (using Jni4Net) "
  * "Creating a clone of WebGoat on GitHub"
  * "Help out with WebGoat .NET development"
-
+ * "Is this a safe way to do a .NET Server Redirects? (and deal with A10: Unvalidated Redirects and Forwards)"
+ 
 * posts about specific OWASP Events (most of which are now not relevant)
  * "Call For Training - OWASP 2013 LATAM Tour"
 
 * misc topics
- * "Great animation that shows how BootStrapToday works "
+ * "Great animation that shows how BootStrapToday works"

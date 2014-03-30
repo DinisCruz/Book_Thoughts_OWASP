@@ -36,10 +36,9 @@ _**_The focus of this program is to help **Developers or Security Professionals 
 
     * _The 'Seconauts model' (descibed below) is just one way to achieve this goal_
 
-**  
-**_**Fork #1 (the 'data) "Seconauts participation in ****"Developing Software Security Talent" Programme:**_  
-**_  
-_**_Seconauts will:_
+_**Fork #1 (the 'data) "Seconauts participation in ****"Developing Software Security Talent" Programme:**_  
+
+_Seconauts will:_
 
   * _Find the sponsors and mentors_
   * _Handle the logistics (from payments, to selections, to contacts, to introductions, to public reporting, etc..)_
@@ -48,24 +47,23 @@ _**_Seconauts will:_
   * _Help and brief the Mentors (with clear definitions of what are the expectations and responsibilities of each party)_
   * _...see [mark's post](http://www.curphey.com/blog/2012/10/19/investing-in-software-security-talent/) for a specific details (like the number of mentors, what each one should do, etc...)_
 
-_  
-_**_Fork #2: XYZ Company ...._**  
-**_  
-_****_Fork #3: XYZ University ...._**  
-**_  
-_****_Fork #4: UK Government ...._**  
-**_  
-_****_Fork #5: OWASP ...._**  
-_  
-_**_etc..._**  
-**  
-**Remember that the objective is to develop Security Talent, so it doesn't really matter how it is done, as long as it happens.
+**_Fork #2: XYZ Company ...._**  
+
+**_Fork #3: XYZ University ...._**  
+
+**_Fork #4: UK Government ...._**  
+
+**_Fork #5: OWASP ...._**  
+
+**_etc..._**  
+
+Remember that the objective is to develop Security Talent, so it doesn't really matter how it is done, as long as it happens.
 
 It is also important to take into account that some companies or organisations have a _'Not invented here' _syndrome, and it is important to present them with ideas that they can consume, re-brand and execute  
-**  
-****Rough/Draf notes**  
-**  
-**Since** **Mark's original post was in a 'Draf' mode', here are a bunch of semi-related notes and ideas that I had when reading and thinking about this.
+
+**Rough/Draf notes**  
+
+Since Mark's original post was in a 'Draf' mode', here are a bunch of semi-related notes and ideas that I had when reading and thinking about this.
 
 Starting with some comments on the proposed model, I'm going to use SI ([Security Innovation)](https://www.securityinnovation.com/) as an example of a company that could participate on the mentoring and hiring activities (note that I have not spoken with the SI guys about this, it is just easier to have a specific example in mind):
 
@@ -113,9 +111,6 @@ Starting with some comments on the proposed model, I'm going to use SI ([Securit
 
 
 And here is a brain dump of 'stuff' that needs some more thinking: 
-
-  
-
 
   * it is going to be hard to find a significant number of mentors (which is a catch 22 ,since once the model is proven, they will be easier to find)
 
@@ -177,15 +172,6 @@ I was also very involved with Paulo Coimbra and the GPC on the management of OWA
 
 For reference, before Paulo Coimbra left OWASP, we were really close to implementing a similar program at OWASP (the idea was to start with getting reviewers involved into projects (in a 'Season of Quality') and then evolve it into mentorships).
 
-  
-
-
 And has Paulo's departure showed, without such back-office support it is impossible to do this. 
 
-  
-
-
 Btw, to give you an idea of the amazing work Paulo was doing on OWASP projects, take a look at [https://www.owasp.org/index.php/OWASP_Projects_Dashboard_2.0](https://www.owasp.org/index.php/OWASP_Projects_Dashboard_2.0) (you will be amazed). The good news is that we now have Samantha (Owasp new project manager) who is going to bring things back on track
-
-  
-
