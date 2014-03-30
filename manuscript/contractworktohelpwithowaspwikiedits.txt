@@ -1,0 +1,35 @@
+##  Contract work to help with OWASP Wiki edits 
+
+_Here is an email I just sent to a couple contacts Samantha Groves (OWASP Project manager) gave me as resources I could use to make changes/edits to the OWASP wiki._  
+
+
+  
+
+
+* * *
+
+  
+Hi ....
+
+To move this forward, could you please answer these questions:  
+
+
+  1. Do you have experience in editing wikis? 
+  2. What about wikis using the WikiMedia engine (which is the one used by OWASP) 
+  3. Do you know how to use [http://www.mediawiki.org/wiki/Transclusion](http://www.mediawiki.org/wiki/Transclusion) ? 
+  4. Do you have an account in the OWASP wiki? 
+  5. Have you made any changes to the owasp wiki? And if so, can you point me to the best example of your work? 
+  6. Do you have an CV online that I could take a look (LinkedIn would be great) 
+  7. Have you used Git or GitHub? 
+  8. Can you program? if so on what languages? 
+
+Btw, don't worry if you answer NO to all these questions. I just want to get an idea of your experiences and owasp involvement  
+
+
+  1. Please also answer these operational questions 
+  2. What time zone are you in? 
+  3. How much time can you spend on the 'wiki editing' tasks (a week) 
+  4. Have you agreed a payment model/rate with OWASP/Samantha? 
+  5. Where/how should we track the work done (i.e. what counts as 'payable' work) 
+
+Thanks

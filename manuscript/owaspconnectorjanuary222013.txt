@@ -1,0 +1,125 @@
+##  OWASP Connector January 22, 2013 
+
+Here is OWASP Connector for January 22, 2013
+
+Note the request for support for the [GSD project](https://www.owasp.org/index.php/OWASP_GSD_Project) which you can read about at [OWASP GSD Project (GSD = Get Stuff Done)](http://blog.diniscruz.com/2012/05/owasp-gsd-project-gsd-get-stuff-done.html) and [Some ideas for OWASP GSD Project](http://blog.diniscruz.com/2012/05/some-ideas-for-owasp-gsd-project.html)  
+
+
+  
+
+
+To make sure you receive future emails,  
+please add [kate.hartmann@owasp.org](mailto:kate.hartmann@owasp.org) to your address book or safe list.
+
+# OWASP Connector January 22, 2013
+
+## OWASP CONNECTOR
+
+  
+
+
+![imageproject](images/513e7f231aeb41508ce719a3f521a9b1.png)   
+
+
+New Projects and Project Volunteer Opportunities
+
+  * **[OWASP Crowdtesting](https://www.owasp.org/index.php/OWASP_Crowdtesting)** - This project will try to promote the idea of crowd-testing combined with crowd-sourcing capabilities.  The web applications will be defined as projects and the team of testers will start the security testing.  [Read more ...](https://www.owasp.org/index.php/OWASP_Crowdtesting)
+  * ****[**OWASP Focus** ](https://www.owasp.org/index.php/OWASP_Focus)- Create a new intermediate language based off of Swing and .NET but written in javascript utilizing DOM and json. allowing JAVA and .NET programmers to use their current programming methodologies via javascript .js files.  [Read more ...](https://www.owasp.org/index.php/OWASP_Focus)
+  * **[OWASP 1-Liner](https://www.owasp.org/index.php/OWASP_1-Liner)** - OWASP 1-Liner is a deliberately vulnerable Java - and JavaScript - based chat application intended for demos (talks, tutorials, proof-of-concepts) and possible training in application security.  [Read more ...](https://www.owasp.org/index.php/OWASP_1-Liner)
+
+**********[Volunteer  Opportunities - ](http://owasp.force.com/volunteers/GW_Volunteers__VolunteersJobListing)Complete information and sign up are on the [OWASP initiatives page](https://www.owasp.org/index.php/OWASP_Initiatives_Global_Strategic_Focus)**
+
+  * **OWASP Java HTML Sanitizer Project** - we need 2-4 people to help review the OWASP Java HTML Sanitizer documentation project.  
+  * **OWASP GSD Project Support** - this project is in need of a project support volunteer to help with project administrative duties.
+  * **OWASP Mobile Project Assistance** - this project is looking for a "project" manager who can help keep track of the many facets of this project
+
+* * *
+
+![Global Initiatives - Chapter](images/75486158221342db9ae28b81438cb32e.jpg)   
+
+
+The 2013 LATAM tour has been scheduled for this Spring!  This year's tour will include OWASP Day events and training in the following countries:
+
+Argentina, Uruguay, Chile, Peru, Ecuador, Columbia, Venezuela, Costa Rica, Puerto Rico, Brasilia, Sao Paulo, Curtibia, and Florianopolis! 
+
+![AppSec USA 13 - NYC Banner](images/cd6938fd07da4c178b6ada2b591a040f.jpg)
+
+AppSec USA 2013 ([www.appsecusa.com](http://www.appsecusa.com/)), the premier software security conference for Builders, Breakers, and Defenders, will be held November 18-21 at the Marriott Marquis, in Times Square, New York City.  Now in it's ninth year, AppSec USA brings together leading global experts in software security for four days of discussion, training, exhibition, and competition.
+
+**_Five Reasons to Attend AppSec USA 2013  
+_**  
+  
+
+
+>   
+
+> 
+> 1.  **Insightful keynote addresses** delivered by leading industry visionaries from thought leaders of critical infrastructure.
+> 
+>   
+
+> 
+> 2.  **Over 50 sessions** across 4 tracks (Builder/Breaker/Defender) with world-renowned subject matter experts
+> 
+>   
+
+> 
+> 3.  **Over 2000 attendees** exclusively focused on Software Security
+> 
+> 4.  **30 - minute, 60 - minute, and 90 - minute sessions** are offered so you can acquire more knowledge and maximize your Conference learning experience
+> 
+> 5.  **Convenience of Midtown Manhattan**
+
+  
+
+
+![PNG owasp logo](images/361f05f8b1934f14aeaecc5f6c0be21b.png)
+
+[![imageglobas](images/8f3db094863342c8a756b6ac2919fcd6.png)](https://www.owasp.org/index.php/OWASP_Initiatives_Global_Strategic_Focus)   
+
+
+The initial 2013 Global Webinars were held January 10th, 2013.  If you were not able to attend, the recordings are available online.  
+[RECORDINGS](https://www.owasp.org/index.php/OWASP_Initiatives_Global_Strategic_Focus)  
+The next webinars will be this Thursday, January 24th at 10am EST and 9pm EST.  This session will focus on projects.  We are hoping that ALL project leaders (past, present, or future) will be able to join.
+
+  * To participate in the 10am (Eastern Time Zone) discussion:
+
+[![register](images/6082d9b3edd845728f0b6139759de036.jpg)](https://www3.gotomeeting.com/register/971852638)
+
+  * To participate in the 9pm (Eastern Time Zone) discussion:
+
+[![register](images/6082d9b3edd845728f0b6139759de036.jpg)](https://www3.gotomeeting.com/register/917122206)
+
+![EDUCATION BANNER SMALL](images/e936852dc0664428be2985008fdee7e4.jpg)
+
+OWASP Partners with National Collegiate Cyber Security Competition
+
+**The National Collegiate Cyber Defense Competition**
+
+The Collegiate Cyber Defense Competition (CCDC) is the first competition system that focuses on the operational aspect of managing and protecting an existing "commercial" network infrastructure. CCDC allows teams of undergraduate and graduate students at universities across the United States to exercise their academic and technical education and compete in a business oriented, defense information assurance competition. CCDC is a tiered competition with qualifying and regional events leading to a national championship.   
+CCDC Competitions ask students teams to assume administrative and protective duties for an existing "commercial" network -- typically a small company with 50+ users, 10-12 servers, and common internet services such as a web server, mail server, and an e-commerce site. Each team begins the competition with an identical set of hardware and software and is scored on their ability to detect and respond to outside threats, maintain availability of existing services, respond to business requests such as the creation of a new e-commerce site, and balance security best practices against business needs.  2013 qualifiers kick off in February with the regional competitions taking place in March and our National CCDC will be held April 19-21, 2013 in San Antonio, TX. More information can be found at [Http://nccdc.org](http://nccdc.org/)  
+
+* * *
+
+For more information about The OWASP Foundation, go to [owasp.org](http://www.owasp.org/) .
+
+[Contact Us ](http://owasp4.owasp.org/contactus.html)
+
+If you do not wish to receive future emails from Kate Hartmann, [click here to opt-out](http://www.cvent.com/e.aspx?5E,M1,7a8ba41f-5cd8-4604-b87f-ff2379e5a81b).
+
+You are receiving this email because you are subscribed to the following lists - Digest Distribution.
+
+  
+_______________________________________________  
+To unsubscribe from the Owasp-all mailing list, you will need to unsubscribe yourself from all OWASP mailing lists you belong too. This list is automatically generated to allow OWASP to contact all it&#8217;s members in one distribution.
+
+Best regards, OWASP  
+--  
+You received this message because you are subscribed to the Google Groups "OWASP Summit 2013" group.  
+To post to this group, send email to [owasp-summit-2013@owasp.org](mailto:owasp-summit-2013@owasp.org).  
+To unsubscribe from this group, send email to [owasp-summit-2013+unsubscribe@owasp.org](mailto:owasp-summit-2013%2Bunsubscribe@owasp.org).  
+For more options, visit this group at [http://groups.google.com/a/owasp.org/group/owasp-summit-2013/?hl=en](http://groups.google.com/a/owasp.org/group/owasp-summit-2013/?hl=en).
+
+  
+  
+

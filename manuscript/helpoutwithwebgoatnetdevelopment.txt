@@ -1,0 +1,21 @@
+##  Help out with WebGoat .NET development 
+
+If you are looking for a great project to learn about ASP.NET, C# and Web Application Security, [WebGoat .NET](https://www.owasp.org/index.php/Category:OWASP_WebGoat.NET) is a great place to start.
+
+Please grab the code ([here](https://github.com/OWASP/WebGoat.NET) or [here](https://github.com/OWASP/WebGoat.NET/tree/VS_2010)), read the [current issues](https://github.com/OWASP/WebGoat.NET/issues) and join [the mailing list](https://groups.google.com/a/owasp.org/forum/#!forum/webgoat-.net)
+
+See my [WebGoat.NET in Action (and how I set-it up)](http://blog.diniscruz.com/2013/06/webgoatnet-in-action-and-how-i-set-it-up.html) post if you need help setting it up.
+
+And please fell free to invite others to join the party :)
+
+Like I just did for this Reddit question
+
+[![](images/Screen_Shot_2013-06-07_at_10_17_41.png)](http://4.bp.blogspot.com/-Np8g-feJq9k/UbGmTxtbY9I/AAAAAAAACrk/o2zam7_Q0QU/s1600/Screen+Shot+2013-06-07+at+10.17.41.png)
+
+  
+Where I answered
+
+[![](images/Screen_Shot_2013-06-07_at_10_17_47.png)](http://4.bp.blogspot.com/-BtjbhWkadiI/UbGmT9FQlnI/AAAAAAAACro/r3529eGO5jg/s1600/Screen+Shot+2013-06-07+at+10.17.47.png)
+
+  
+

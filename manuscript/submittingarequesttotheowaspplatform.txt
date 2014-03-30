@@ -1,0 +1,18 @@
+##  Submitting a request to the OWASP Platform 
+
+Here is a message from [Sarah Baso](mailto:sarah.baso@owasp.org) on how to ask a question to them :)
+
+The original question was about how to get OWASP support for participating in local events.
+
+  
+--------------------
+
+_In the future, please submit any requests/questions through the OWASP "contact us" page to help us track all incoming questions requests and help make sure they are addressed in a timely fashion: [http://owasp4.owasp.org/contactus.html](http://owasp4.owasp.org/contactus.html)_
+
+To answer your questions, it is possible for OWASP to support these efforts - we will need a bit more information though.
+
+1. All events (except for chapter meetings) should be submitted through our OWASP Event Management System (OEMS):  
+[https://ocms.owasp.org/](https://ocms.owasp.org/)
+
+2. To request OWASP Merchandise or other materials, please complete this google form:  
+[https://spreadsheets.google.com/a/owasp.org/spreadsheet/viewform?formkey=dF85bGtvdWdrd2JjYldNZ1gxSkJxaEE6MQ](https://spreadsheets.google.com/a/owasp.org/spreadsheet/viewform?formkey=dF85bGtvdWdrd2JjYldNZ1gxSkJxaEE6MQ)

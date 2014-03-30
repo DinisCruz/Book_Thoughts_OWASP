@@ -1,0 +1,70 @@
+##  What do the Twitter backups downloadable files look like 
+
+After about a minute from sending the request shown at the end of [Feature request: Tweet backups to Git/GitHub](http://blog.diniscruz.com/2013/03/feature-request-tweet-backups-to.html) ,  I received an email with:
+
+  
+[![image](images/image_thumb1.png)](http://lh3.ggpht.com/-C-7ex2K_lwM/UUTDDoaYSfI/AAAAAAAAK9E/iRzq5aSMA6w/s1600-h/image%25255B2%25255D.png)
+
+Accessing the link from a non-logged-in-to-twitter account shows the sign-in page
+
+[![image](images/image_thumb_25255B1_25255D1.png)](http://lh4.ggpht.com/-Pf0-UQ4l9bA/UUTDFsFhhbI/AAAAAAAAK9U/hjJYPkWTW3o/s1600-h/image%25255B5%25255D.png)
+
+opening that link from a valid twitter sessions shows:
+
+[![image](images/image_thumb_25255B2_25255D1.png)](http://lh5.ggpht.com/-pdeGzXFkLSQ/UUTDHi2CsQI/AAAAAAAAK9k/mWTsj5wH91c/s1600-h/image%25255B8%25255D.png)
+
+which changes to (when clicked):
+
+[![image](images/image_thumb_25255B3_25255D1.png)](http://lh5.ggpht.com/-CaV68w59bFE/UUTDJJs8DsI/AAAAAAAAK90/W0G6ZTRvloc/s1600-h/image%25255B11%25255D.png)
+
+The download is 1.6Mb (which I placed on my DropBox folder for an extra backup)
+
+[![image](images/image_thumb_25255B5_25255D1.png)](http://lh5.ggpht.com/-kZ1_RKI_pvw/UUTDKpqep5I/AAAAAAAAK-E/AZ1MBWARH7w/s1600-h/image%25255B17%25255D.png)
+
+The unzipped data is 7Mb:
+
+[![image](images/image_thumb_25255B6_25255D1.png)](http://lh6.ggpht.com/-M22ab7OTrH0/UUTDMGNFR2I/AAAAAAAAK-U/TrvLHYrXaos/s1600-h/image%25255B20%25255D.png)
+
+The Readme.txt provides some good info:
+
+[![image](images/image_thumb_25255B7_25255D1.png)](http://lh6.ggpht.com/-dQoWN9OZjEU/UUTDNjkr3EI/AAAAAAAAK-k/QuiTiIo0zdg/s1600-h/image%25255B23%25255D.png)
+
+Here is the data in CSV format
+
+[![image](images/image_thumb_25255B8_25255D1.png)](http://lh6.ggpht.com/-uQqMEuMmgdM/UUTDPlr3xUI/AAAAAAAAK-0/KTycuQKq8DI/s1600-h/image%25255B26%25255D.png)
+
+Here the local version (via the index.html)
+
+[![image](images/image_thumb_25255B9_25255D.png)](http://lh6.ggpht.com/-xYWK7T-T20c/UUTDRqEzmLI/AAAAAAAAK_A/ly3xkfOje70/s1600-h/image%25255B29%25255D.png)
+
+We can open tweets from a particular month:
+
+[![image](images/image_thumb_25255B11_25255D.png)](http://lh5.ggpht.com/-9lVNE9b1xLw/UUTDTY8X74I/AAAAAAAAK_U/awheV9lCLN4/s1600-h/image%25255B35%25255D.png)
+
+And interestingly, the search works (I wonder how that happens)
+
+[![image](images/image_thumb_25255B10_25255D.png)](http://lh3.ggpht.com/-lznyXhfOEkM/UUTEX8Yzp4I/AAAAAAAAK_k/nH-RZlwk5SA/s1600-h/image%25255B32%25255D.png) 
+
+Here are the files loaded when one of the month's data is loaded
+
+[![image](images/image_thumb_25255B12_25255D.png)](http://lh5.ggpht.com/-G9-DNU1gzhQ/UUTEZ3cJoaI/AAAAAAAAK_0/TKEwiHBOJK0/s1600-h/image%25255B38%25255D.png)
+
+which is consuming the data stored in
+
+[![image](images/image_thumb_25255B13_25255D.png)](http://lh3.ggpht.com/-NphwWFuxaFo/UUTEbvxUk1I/AAAAAAAALAA/Q_QbZSc7_RU/s1600-h/image%25255B41%25255D.png)
+
+and
+
+[![image](images/image_thumb_25255B14_25255D.png)](http://lh6.ggpht.com/-uL4cjNIFrnE/UUTEdETJz_I/AAAAAAAALAU/Vp5bs8Pz9b8/s1600-h/image%25255B44%25255D.png)
+
+Here is an example of the data contained in these js files (which are basically json objects)
+
+[![image](images/image_thumb_25255B15_25255D.png)](http://lh5.ggpht.com/-400mSIKyfnw/UUTEe4WZcWI/AAAAAAAALAk/CFikOLiUnqk/s1600-h/image%25255B47%25255D.png)
+
+This is quite nicely done
+
+What I'm thinking is that there should be a public repository of these backup files, which could then be used for data analysis and historic searches.
+
+For example, it would be great to have the OWASP leaders and temp accounts created for conferences available this way :)
+
+Does this already exist? (public archive of twitter data) 

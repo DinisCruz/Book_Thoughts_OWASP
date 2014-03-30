@@ -1,0 +1,15 @@
+##  OWASP Royal Holloway Next Chapter Meeting - Thurs 10 May 6:30-9pm 
+
+Dennis Groves just posted this to the OWASP London lists, and if you are around London/Royal Holloway, on the 10th, you are invited to this OWASP chapter meeting :)
+
+_Please join us at the next OWASP Royal Holloway chapter meeting, we have two great speakers and two very interesting topics!  
+(also if you are in the Central London chapter, this conflicts with the incredible OWASP Blecheley Park event organised by Justin Clarke)_
+
+**Thurs 10 May 6:30-9pm**  
+_**Location:** Royal Holloway University of London, Bourne Lecture Theatre 2, Egham Hill, Egham, TW20 0EX_
+
+**Talks**  
+
+
+  * _[Making Security Invisible by Becoming the Developer's Best Friends](http://diniscruz.blogspot.co.uk/2012/04/making-security-invisible-by-becoming.html) - Dinis_
+  * _Your Digital Exhaust: How your online habits might cause more damage than you realised. - Daniel_

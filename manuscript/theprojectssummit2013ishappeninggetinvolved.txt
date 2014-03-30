@@ -1,0 +1,81 @@
+##  The Projects Summit 2013 is happening: GET INVOLVED!!!! 
+
+Here is the announcement email from Samantha Groves sent to [the OWASP Leaders list](http://lists.owasp.org/pipermail/owasp-leaders/2013-October/010171.html):  
+  
+
+
+_Hello Leaders,_  
+
+
+_  
+_
+
+_This message is just to get the conversation started. I was in the AppSec USA planning meeting yesterday, and everyone on the call was thrilled with what we are doing! They are very excited to see this happen so we need to get moving on some of these items. First up, is sorting out what the working sessions will be, then I can get a tentative schedule sorted for us. Here are the tentative Track and Session topics: [https://www.owasp.org/index.php/Projects_Summit_2013](https://www.owasp.org/index.php/Projects_Summit_2013)_
+
+_  
+_
+
+_  
+_
+
+**_[Projects Track](https://www.owasp.org/index.php/Projects_Summit_2013/Working_Sessions/003) _**_- Project Reviews Session: Johanna Curiel Leading_
+
+_  
+_
+
+_**[ESAPI Hackathon](https://www.owasp.org/index.php/Projects_Summit_2013/Working_Sessions/001)**: Chris and Kevin, as I told Simon, feel free to change everything that is on the working session pages. I just put that information on there based on what we had discussed earlier. Please feel free to be creative with what you want to do. What would benefit the project most? Reach out to me if you have questions. _
+
+_  
+_
+
+_**[University Outreach,](https://www.owasp.org/index.php/Projects_Summit_2013/Working_Sessions/008) [Education and Training:](https://www.owasp.org/index.php/Projects_Summit_2013/Working_Sessions/009)** Martin and Kostas... Same as I told Simon, Chris, and Kevin. The template is there, now it is just up to you if/what you want to do. _
+
+_  
+_
+
+_**[Writing, Proofreading](https://www.owasp.org/index.php/Projects_Summit_2013/Working_Sessions/005), and [Technical Editing](https://www.owasp.org/index.php/Projects_Summit_2013/Working_Sessions/006):** Michael Hidalgo is taking this on. Michael, feel free to edit these as you wish. The only vision I have for this session is that we should proofread and edit a handfull of our new guides/project books. We can do that there or before. Call me if you want to talk about this more. _
+
+_  
+_
+
+_**[Product Development](https://www.owasp.org/index.php/Projects_Summit_2013/Working_Sessions/0010) and [Reference Implementation:](https://www.owasp.org/index.php/Projects_Summit_2013/Working_Sessions/0011)** These sessions still need a leader. If no one is interested in them, we can drop them and replace them with something else. _
+
+_  
+_
+
+_[**Zap Hackathon:** ](https://www.owasp.org/index.php/Projects_Summit_2013/Working_Sessions/007)You know what to do, Simon._
+
+_  
+_
+
+_**New Addition:** Jack Mannino is in for the Summit. He is doing a Mobile Security session. _
+
+_  
+_
+
+_Session Leaders, have a think about what day you want to have the sessions you are leading take place. _
+
+_  
+_
+
+_For all OWASP Leaders: There is opportunity to change everything right now so reach out to us if you want to participate in any of the sessions above, or if you have ideas for other tracks and sessions. _
+
+_  
+_
+
+_Reach out to me if you have questions: I am always here. ;-)_
+
+_  
+_
+
+_Thank you, Leaders._
+
+_  
+_
+
+_SG_
+
+  
+So, if you have an OWASP Project that you are currently using or leading/contributing, then this is the place to be involved.
+
+And as with the last Summits (at this stage of planning), **there is still plenty of time and space to add more Working Sessions,** so if you have ideas (or want to lead one), then create a new Working Session and add it to: [https://www.owasp.org/index.php/Projects_Summit_2013](https://www.owasp.org/index.php/Projects_Summit_2013)

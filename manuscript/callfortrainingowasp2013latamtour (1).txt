@@ -1,0 +1,53 @@
+##  Call For Training - OWASP 2013 LATAM Tour 
+
+Please see bellow's Kate's email about the amazing OWASP Tour that they are organizing at LATAM. As the guy who did the [first OWASP Tour](http://blog.diniscruz.com/2010/08/owaspo2-us-tour-aug-9-17-6-cities-in-8.html) I'm very happy to see that this idea is finally taking shape.
+
+Now if only we could do the same around Europe :)
+
+  
+Btw, If you are in the Latin America (or want to go there), this is a great opportunity to be involved
+
+> **From:** Kate Hartmann <[kate.hartmann@owasp.org](mailto:kate.hartmann@owasp.org)>  
+**Date:** 31 January 2013 21:31:29 GMT  
+**To:** OWASP Leaders <[owasp-leaders@lists.owasp.org](mailto:owasp-leaders@lists.owasp.org)>  
+**Subject:** **[Owasp-leaders] Call For Training - 2013 LATAM Tour**
+
+> I am excited to announce that the lineup for the 2013 LATAM tour is posted.  [https://www.owasp.org/index.php/LatamTour2013](https://www.owasp.org/index.php/LatamTour2013) This years tour will feature 10 stops.  Each location is looking forward to hosting a training day followed by an OWASP day!  
+
+> 
+>   
+
+> 
+> We are currently accepting proposals for professionals who would like to submit a training proposal for one or several stops on this year's tour.  Please use the following form to submit your training proposals.
+> 
+>   
+
+> 
+> [http://sl.owasp.org/latamcft2013](http://sl.owasp.org/latamcft2013)
+> 
+>   
+
+> 
+> Sponsorship opportunities are also available for the complete tour or for various locations along the way.  Please visit the Tour page for details.
+> 
+>   
+
+> 
+> Thank you!  
+  
+
+> 
+>   
+
+> 
+> --   
+Kate Hartmann  
+
+> 
+> Director
+> 
+> OWASP Foundation
+> 
+> [kate.hartmann@owasp.org](mailto:kate.hartmann@owasp.org)
+> 
+> [+1 301-275-9403](tel:%2B1%20301-275-9403)

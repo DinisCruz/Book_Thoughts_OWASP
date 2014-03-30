@@ -1,0 +1,17 @@
+##  The power of not being in power (and being ignored) 
+
+I think helps a lot to give clarity and focus to ideas when the 'idea maker' doesn't have enough power to 'force' their execution (or adoption)
+
+I've talked about this before in [You will not have your best ideas when you are in a position of Power](http://blog.diniscruz.com/2012/10/you-will-not-have-your-best-ideas-when.html) and it is something that more and more fell that is needed.
+
+As somebody who has a lot of opinions and ideas (see [I wish that OWASP in 2014 ....](http://blog.diniscruz.com/2012/11/i-wish-that-owasp-in-2014.html)) I think it is very healthy that once I [Stepped down as Board Member](https://lists.owasp.org/pipermail/owasp-leaders/2011-February/004664.html) I was able to (eventually) write freely about [An Idea of a new model for OWASP](http://blog.diniscruz.com/2012/10/an-idea-of-new-model-for-owasp.html)  
+  
+The same applies to the [O2 Platform](http://blog.diniscruz.com/p/owasp-o2-platform.html) which I've been working on for the past 5 years. As I mention in  [Where Is .NET Headed? and the cost for Microsoft of ignoring the O2 Platform](http://blog.diniscruz.com/2013/05/where-is-net-headed-and-cost-for.html) and [Responding to Andrew's O2 Platform feedback on the OWASP Leaders list](http://blog.diniscruz.com/2013/05/responding-to-andrews-o2-platform.html) I still think that the O2 Platform has a huge amount of innovation and great ideas for Application Security and development.
+
+But isn't the O2 Platform really hard to use? Yes, and part of the reason is that it has been designed to **_'allow problems to be solved'_** not to **_'work outside of the box'._**
+
+That said there are quite a lot of examples out there on to use it, this post for example ['How to start using the O2 Platform and its scripting capabilities?' (and how I used the O2 Platform to solve a hard integration problem in May 2013)](http://blog.diniscruz.com/2013/05/how-to-start-using-o2-platform-and-its.html) shows the O2 Platform's powerful scripting capabilities, here are [39 videos](https://www.blogger.com/are%20http://blog.diniscruz.com/2012/04/39-o2-platform-videos-with-12k-youtube.html) and here is the begining of a [book on the O2 Platform web scripting capabilties](https://github.com/o2platform/Book_WebAutomation/blob/master/O2Documentation.md).
+
+So in a weird way, I think it has been quite healthy for the O2 Platform to have a slow (but steady) adoption, since that means that its growth is quite solid and based on real merit and added-value (ironically the lack of real users also allowed me to make major changes to O2's architecture and APIs which would had been very hard to do if its user-base quite large (for example the FluentSharp API's would probably never had existed with the ability to perform major refactorings to the O2 Platform codebase).
+
+The bottom line is that **in the inter-connected world we had today, good ideas and tools will always have the opportunity to grow organicall**y (linearly or [exponentially](http://en.wikipedia.org/wiki/Exponential_growth)). And a great idea, is one that will eventually reach exponential effects (where most of the growth happens in the last iterations ( see [Chapter 3: Exponential Growth](http://robotswillstealyourjob.com/read/part1/ch3-exponential-growth)))), so in a way, what really matters is **_what part of the exponential curve some of my ideas currently are?_** :) 

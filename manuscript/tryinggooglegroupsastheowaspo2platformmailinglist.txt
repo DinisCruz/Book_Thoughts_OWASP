@@ -1,0 +1,67 @@
+##  Trying Google Groups as the OWASP O2 Platform mailing list 
+
+This is something that some OWASP project leaders have talked/tested in the past, so to try it I moved the [current mailman-based O2 list](https://lists.owasp.org/listinfo/owasp-o2-platform) to the new[ Google Groups](https://groups.google.com/) (which look much better than a couple years ago)
+
+My first step was to go to the [mailman Subscribers page](https://lists.owasp.org/mailman/roster/owasp-o2-platform), get the 57 current subscribers:
+
+  
+
+
+[![](images/Screen_Shot_2013-05-23_at_03_26_25.png)](http://2.bp.blogspot.com/-iad0s4Y1VtE/UZ1-bHAss_I/AAAAAAAACnQ/yWi5Jibis5s/s1600/Screen+Shot+2013-05-23+at+03.26.25.png)
+
+  
+
+
+... and feed them to the Direct Subscribe option using this welcome email:
+
+  
+
+
+[![](images/Screen_Shot_2013-05-23_at_03_15_41.png)](http://4.bp.blogspot.com/-x8ALCp0PpCI/UZ1-PHAfnsI/AAAAAAAACnE/vpOVT38NETs/s1600/Screen+Shot+2013-05-23+at+03.15.41.png)
+
+  
+
+
+... which only allowed 10 emails at the time, and required this captcha resolution
+
+  
+
+
+  
+
+
+[![](images/Screen_Shot_2013-05-23_at_03_15_57.png)](http://4.bp.blogspot.com/-i8E6xddPpH0/UZ1-POBZ41I/AAAAAAAACnA/gX3Ch1Cy5Ww/s1600/Screen+Shot+2013-05-23+at+03.15.57.png)
+
+  
+
+
+For reference here are my current settings/config:
+
+  
+
+
+**The Group Type is Q&A forum**
+
+  
+
+
+[![](images/Screen_Shot_2013-05-23_at_04_43_34.png)](http://3.bp.blogspot.com/-L6IjNiX3IBQ/UZ2QkMEbqmI/AAAAAAAACng/KhPKLaRdaII/s1600/Screen+Shot+2013-05-23+at+04.43.34.png)
+
+**With this Group Options**
+
+[![](images/Screen_Shot_2013-05-23_at_04_45_24.png)](http://1.bp.blogspot.com/-ycRnRvftZ8E/UZ2RAX6EllI/AAAAAAAACno/5GuKcxPYjpI/s1600/Screen+Shot+2013-05-23+at+04.45.24.png)
+
+**  
+**
+
+  
+
+
+  
+
+
+  
+
+
+  
+

@@ -1,0 +1,58 @@
+##  Stats used to support OWASP Top 10 entries (next version must publish them) 
+
+Following from [Should Mass Assignment be an OWASP Top 10 Vulnerability?](http://blog.diniscruz.com/2013/01/should-mass-assignment-be-owasp-top-10.html), if I want to make the case for MA (Mass Assignment) to for example replace the [A10 - nvalidated Redirects and Forwards](https://www.owasp.org/index.php/Top_10_2010-A10),  I will need to provide data and analysis to justify it.
+
+Unfortunately, for practical reasons, there is no published data to back up the current OWASP Top 10 entries.  
+Here my thread with Dave on this [OWASP-Top-10 mailing list entry](http://lists.owasp.org/pipermail/owasp-topten/2013-January/000811.html):
+
+------------------------------------------------------------
+
+**Dinis: **_"I got a question about the stats, data and sample size used to backup the choice of the Top 10 entries. __Since I couldn't find that info on the [https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project) page, I am asking it here :)_  
+
+
+_So, where can I get it from? (I know it exists, since I remember the threads)"_
+
+__
+
+_  
+_
+
+**Dave: _"_**_The data is NOT published by OWASP because it was provided to OWASP with the understanding that we wouldn't republish it. That said, many of the data providers have already published their data, like White Hat and Veracode for example (and MITRE in the past), so people can go get the data directly from those providers. But not all data providers have made their data public. __And we clearly list who the data providers are in the Top 10 itself."_
+
+_  
+_**Dinis: _"_**_Well, that is not really usable right? :)  (there are only 4 links on [https://www.owasp.org/index.php/Top_10_2010](https://www.owasp.org/index.php/Top_10_2010) and there is not much consumable data in there)_  
+
+
+_I understand how in the past it made sense to have such arrangement, but for the next version (OWASP Top 10 2013) can we have it so that all data used is published? And per-reviewed?"_
+
+  
+**Dave: **_"Given that I intend to publish the release candidate in 1 week, I simply don't think we have the time to introduce this at this point. I really wanted the draft out 1 month ago, but didn't get it done earlier."_  
+_  
+_------------------------------------------------------------
+
+Well I have to say that I disagree with Dave on this one.
+
+It is not too late to introduce some science and analysis into the OWASP Top 10, and there is nothing wrong with doing that after the first draft is released.
+
+Another big problem that is happening here is that we have a pocket of closed data, which creates an environment where there is no Openness and Transparency regarding how decisions are made. See my post at [Why NDAs have no place at OWASP](http://blog.diniscruz.com/2013/01/why-ndas-have-no-place-at-owasp.html) for more details on why this is such a bad idea.
+
+I can understand why (for practical reasons) in the past releases of the OWASP Top 10, the only way to get it done was to rely on 'private' data.
+
+The good news is that the world has moved on a lot since. There is a  LOT more data available at the moment and companies willing to share it.
+
+For example see this [OWASP Top 10 2013](http://lists.owasp.org/pipermail/owasp-topten/2013-January/000815.html) thread where:
+
+  * Ryan Dewhurst (RandomStorm), Matteo Meucci (Minded Security) want to provide data they gathered from  their security engements
+  * Ryan Barnett points to the amazing resource that is the [Web Hacking Incident Database](http://projects.webappsec.org/w/page/13246995/Web-Hacking-Incident-Database) which already has mapping to the OWASP Top 10:  [https://www.owasp.org/index.php/OWASP_Top_10/Mapping_to_WHID](https://www.owasp.org/index.php/OWASP_Top_10/Mapping_to_WHID)
+  * The idea of using [ThreadFix](http://code.google.com/p/threadfix) and the [Software Vulnerability Language (SSVL)](https://docs.google.com/document/d/1H5hWUdj925TtoZ7ZvnfHdFABe7hBCGuZtLUas29yBGI/edit) to provide the data  (the SSVL will soon to be at [https://github.com/OWASP/SSVL](https://github.com/OWASP/SSVL) )
+
+  
+I think the time is right to make the change to: _'all data used on OWASP Top 10 is publicly available'_.
+
+It will be true to OWASP's values, allow for per-review and provide a much more robust and pragmatic justification of the reason behing each entry.
+
+That said, of course that there will be room for manoeuvre and subjective interpretations/entries. For example when CSRF was firstly introduced there wasn't a lot of data to back it up (as in exploits) but we could see that it was going to become a really big issues (like it has).
+
+Ultimately, if there needs to be a final decisions/choice make, they should be made by the OWASP Top 10 project leader, which is Dave.
+
+My point is that _'all_ _data used must be public'_ and decisions like _"Lets put CSRF in there to raise awareness"_ must be clearly documented, mapped and [hyperlinkable](http://blog.diniscruz.com/2013/01/can-you-put-this-on-hyperlinkable.html).
