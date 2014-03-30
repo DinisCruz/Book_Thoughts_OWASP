@@ -14,12 +14,6 @@ For example take a look at the [Next Level Doctor Social Graph](http://www.medst
 
 [![](images/Screen_Shot_2012-10-30_at_11_50_18.png)](http://3.bp.blogspot.com/-uPYAjZ3sdwc/UI_B3aBGM8I/AAAAAAAABHQ/aIuOMiT-UEs/s1600/Screen+Shot+2012-10-30+at+11.50.18.png)
 
-  
-
-
-  
-
-
 From that page, here is is their description of the problem:
 
 _"It is very difficult to fairly evaluate the quality of doctors in this country. Our State Medical Boards only go after the most outrageous doctors. The doctor review websites are generally popularity contests. Doctors with a good bedside manner do well. Doctors without strong social skills can do poorly, even if they are good doctors. It is difficult to evaluate doctors fairly. Using this data set, it should be possible to build software that evaluates doctors by viewing referrals as "votes" for each other." _(see related [reddit thread here](http://www.reddit.com/r/programming/comments/12aocr/doing_hacktivism_right_i_am_crowdfunding_the/))  

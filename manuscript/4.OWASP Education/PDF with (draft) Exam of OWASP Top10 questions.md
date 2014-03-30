@@ -4,9 +4,6 @@ On the topic of exams and certificates, [JBI Training](http://www.jbinternationa
 
 The first step was to have something to ping JBI's developer community with (i.e former students) so I pointed [Nigel Laurens](mailto:nigel@jbinternational.co.uk) to the [OWASP Exams project](https://www.owasp.org/index.php/OWASP_Exams_Project) and he created [this pdf](https://dl.dropboxusercontent.com/u/81532342/OWASP%20Files/OWASP%20Top%2010%20Quiz.pdf) (embedded bellow) to kickstart things.
 
-  
-
-
 Of course that we really need to add some automation here (in terms of getting feedback on questions and processing the results), but even something as crude as this list of questions, will focus the mind of developers and make sure they undertand the OWASP Top 10.
 
 I also noticed that this PDF doesn't include references to the source materials and content license. Which is caused by Nigel's lack of experience in the OWASP and http://creativecommons.org world (so don't go too hard on him :) )

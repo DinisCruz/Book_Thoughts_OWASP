@@ -4,20 +4,11 @@
 
 I actually wanted to write a long email about his, but since I'm running out of time, here is the short version:  
 
-
-  
-
-
 I just voted **Abstain** on the Board Election because I think that OWASP [needs a new structure](http://diniscruz.blogspot.com/2012/10/an-idea-of-new-model-for-owasp.html) and the sooner we replace the current Board, Committees, etc.. with something that works, the better.  
   
-
-
 [![](images/Screen_Shot_2012-10-16_at_02_41_17.png)](http://1.bp.blogspot.com/-rjbXvcSYOSw/UHzGErNHkXI/AAAAAAAAATk/9hQIthLLuRY/s1600/Screen+Shot+2012-10-16+at+02.41.17.png)
 
 When I stepped-down from the Board 18 months ago, I did ask the other Board Members to also step-down, since my idea was that if there was no Board, we would be faced with the 'nice problem' to come up with a new model. Jeff was the only one that did it (I'm not taking the credit for it since he had his reasons), but the others stayed there and have since been re-elected or are part of the current election.
-
-  
-
 
 I had a big list of items that I wanted to raise (with more details on what is not working, areas that need to be addressed and ideas for the future), but I guess the two ones recurring themes are:
 
@@ -26,31 +17,15 @@ I had a big list of items that I wanted to raise (with more details on what is n
 
 Another reason to vote **Abstain **is _to go on the record that I don't agree with the current model_ and that (maybe) if enough OWASP leaders also vote **Abstain **, the required changes will happen faster :)
 
-  
-
-
 Now, **if you are going to vote, I also think that you should go on the record **about which candidates you voted for ** **(by email or wiki or your blog) . 
-
-  
-
 
 This 'public vote of support' will create a two-way relationship between you (the voter) and the elected board member. It will be more transparent/open and will allow for accountability (which is another thing missing)
 
-  
-
-
 Note that I'm not saying that the current Board Members (and candidates) don't work hard for OWASP and help a lot. They do , just like a lot of other owasp-leaders. It's just that the current model is broken and if we really want OWASP to go to the next level and make a 'dent in the WebAppSec Universe' we need a new model.
-
-  
-
 
 Unless of course you think that all is great with OWASP, that we are doing the best that is possible with our human, financial and technological resources, and that no major change is need. I don't happen to share that view :)
 
-  
 Finally, over the past months I've been thinking and blogging about OWASP, and since I know that some of you have 'owasp-leaders email overload', I didn't post all of them here. 
-
-  
-
 
 Here is a collection of some of my thinking and ideas:
 
@@ -68,7 +43,6 @@ Here is a collection of some of my thinking and ideas:
   * [I want to vote for a Summit Team+Vision , NOT for a venue](http://diniscruz.blogspot.co.uk/2012/04/i-want-to-vote-for-summit-teamvision.html) 
 
 I also tagged a number of posts with OWASP MIA, which where the cases where I was thinking "_humm.... shouldn't OWASP be involved in here?"_  
-
 
   * ['Using the HTML5 Fullscreen API for Phishing Attacks', OWASP MIA and 'We need SAST technology for browsing the web safely'](http://diniscruz.blogspot.co.uk/2012/10/using-html5-fullscreen-api-for-phishing.html)  
   * [Great animation that shows how BootStrapToday works](http://diniscruz.blogspot.co.uk/2012/10/great-animation-that-shows-how.html) 

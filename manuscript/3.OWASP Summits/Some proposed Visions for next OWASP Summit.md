@@ -2,10 +2,6 @@
 
 Since [Summits must be part of OWASP's DNA](http://diniscruz.blogspot.co.uk/2012/04/summits-must-be-part-of-owasps-dna.html) , and in case some of you are thinking of putting energy in creating the next OWASP Summit, I really think that the ['Summit Proposal' concept I detailed here](http://diniscruz.blogspot.co.uk/2012/04/i-want-to-vote-for-summit-teamvision.html) is a good model.  
 
-
-  
-
-
 So starting from the point that first we need a strong theme/vision, here are a couple ideas:  
 
 
@@ -17,8 +13,5 @@ So starting from the point that first we need a strong theme/vision, here are a 
   * **OWASP Summit on Web Privacy** - Privacy is becoming more and more a big issue in the Web World, and with: a) Browsers adding features like the [Do not track header](http://en.wikipedia.org/wiki/Do_not_track_header) ([http://donottrack.us/](http://donottrack.us/) ), b) new laws being passed, c) recent big privacies breaches, d) governments regulatory bodies wanting to do something about it , and ... {many more recent developments} ...  Privacy is definitely a topic which will draw a good crowd (and although one day it might be big enough to have it's own dedicated 'Brower Summit', I think in the short them, the Browser track (following the work done at the last Summit) should be part of this Summit).
 
 Of course that there are many other hot topics or OWASP Projects we could create a Summit around (ESAPI, OpenSamm, Guide Trilogy, Cloud, DAST, Secure Coding, Code Review, PenTesting, etc...), what is needed to make it happen is a core team with passion and energy for it.
-
-  
-
 
 On the financial side of things, one thing that  OWASP could do is to say:_ "Here is 50k seed money, the rest you need to find from other sources (including internally like OWASP Chapers)"_. And maybe even that 50k is not needed (if there is enough energy and supporters willing to buy '20k Summit tickets' )

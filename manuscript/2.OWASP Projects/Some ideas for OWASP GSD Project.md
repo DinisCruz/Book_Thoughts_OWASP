@@ -2,14 +2,7 @@
 
 When I started talking about the [OWASP GSD Project (GSD = Get Stuff Done)](http://diniscruz.blogspot.co.uk/2012/05/owasp-gsd-project-gsd-get-stuff-done.html) , with fellow OWAPS leaders, one of the questions I received was_ 'Ok so where will the money be used?'_  
 
-
-  
-
-
 The concept of GSD is to empower the OWASP Leaders to spend on OWASP projects, so in way the _'what would it be be used for' _will be defined by them (the OWASP Leaders).
-
-  
-
 
 If you are an OWASP Leader, you are the one that will be empowered to spend GSD funds, so look in the mirror and ask yourself the question _'Where would I spend funds on OWASP Projects' _:) .
 

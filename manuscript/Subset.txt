@@ -3,30 +3,24 @@
 
 Introduction/Introduction.md
 Introduction/Change_Log.md
-Introduction/Why_This_book
+Introduction/Why_This_book.md
 
 {mainmatter}
 
-# Sec Industry
-Sec Industry/_Intro.md
-Sec_Industry/My comments on the SATEC document (Static Analysis Tool Evaluation Criteria).md
 Sec Industry/_Intro.md
 Sec_Industry/Blogger_in_HTTP_only_What_Happened_to_HTTPS.md
 Sec_Industry/Etsy.com_-_A_case_study_on_how_to_do_security_right.md
+Sec_Industry/My comments on the SATEC document (Static Analysis Tool Evaluation Criteria).md
 
-
-# OWASP Organization
 OWASP Organization/_Intro.md
 OWASP Organization/An_Idea_of_a_New_Model_for_owasp.md
 OWASP Organization/Improved_Wikipedia_funding_page_why_OWASP_needs_something_similar_and_who_buys_OWASP_Corporate_Memberships.md
 
-# Education
 
-OWASP Education/_intro.md
+OWASP Education/_Intro.md
 OWASP Education/Let's make this happen 'Investing in Developing Software Security Talent'.md
 
-# OWASP Summits
-OWASP Education/_Intro.md
+OWASP Summits/_Intro.md
 OWASP Summits/Great_description_of_why_OWASP_Summits_are_special.md
 OWASP Summits/Summits must be part of OWASP's DNA.md
 

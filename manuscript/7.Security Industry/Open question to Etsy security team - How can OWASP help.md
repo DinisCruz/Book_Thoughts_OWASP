@@ -2,19 +2,19 @@
 
 Since I don't have a direct contact at [Etsy](http://codeascraft.etsy.com/)'s security team (apart from security-reports@etsy.com), here is the question I would like to ask them (which hopefully will reach the right person).
 
-_------------------------__------------------------__------------------------__------------------------_
+- - - 
 
 _Dear Etsy security team, _  
-**_  
-_****_How can OWASP help?_**  
-**__**  
+
+**_How can OWASP help?_**  
+
 _By Owasp, I mean OWASP Community (it's projects, chapters, people, ideas, activities, energy)._  
-_  
-__From the information posted on your website and presented at conferences, you really take security seriously. _  
-_  
-__You have been able to create a productive environment where secure code 'happens', and more importantly, there is a productive and pragmatic relationship between you (the security team), your developers and your management._  
-_  
-__So, assuming that you still have a couple things you would like to do better, is there a way (or place, or activity) where OWASP's community can help?_
+
+_From the information posted on your website and presented at conferences, you really take security seriously. _  
+
+_You have been able to create a productive environment where secure code 'happens', and more importantly, there is a productive and pragmatic relationship between you (the security team), your developers and your management._  
+
+_So, assuming that you still have a couple things you would like to do better, is there a way (or place, or activity) where OWASP's community can help?_
 
   * _Maybe it is in creating better documentation or education materials for your developers/testers?_
   * _Maybe its an improved schema for AppSensor that would allow your multiple teams to create even better data (or metadata) for your amazing graphs?_
@@ -28,31 +28,18 @@ __So, assuming that you still have a couple things you would like to do better, 
 
 _The idea is to start a collaboration with you._
 
-_  
-_
-
 _There is a lot that OWASP can learn from what you are doing, and the more we are able to capture it, the more we can help others who also want to protect their customers, business and applications._
 
-_  
-_
-
 _Thanks for your time_
-
-_  
-_
 
 _Dinis Cruz_
 
 _Owasp Contributor_
 
   
-_  
-__------------------------__------------------------__------------------------__------------------------_  
-_  
-_**Related Etsy posts:**  
-**  
-**  
+- - - 
 
+_**Related Etsy posts:**  
 
   * [Etsy.com - A case study on how to do security right?](http://diniscruz.blogspot.co.uk/2012/10/etsycom-case-study-on-how-to-do.html)
   * [Amazing presentation on integrating security into the SDL](http://diniscruz.blogspot.co.uk/2012/10/amazing-presentation-on-integrating.html)  

@@ -2,11 +2,8 @@
 
 I just booked my flight using the new OWASP 'Amex travel' partnership and it was a great experience  
   
-
-
 [![](images/Screen_Shot_2013-09-23_at_12_51_54.png)](http://1.bp.blogspot.com/-zLt8DDYclds/UkArsIoEvhI/AAAAAAAADgw/--fSE2hvQZM/s1600/Screen+Shot+2013-09-23+at+12.51.54.png)
 
-  
 The price is quite decent (for an transatlantic flight), and since OWASP is covering this flight I'm now very motivated to really deliver and help out during the conference :)
 
 [![](images/Screen_Shot_2013-09-23_at_12_53_52.png)](http://2.bp.blogspot.com/-uiqpVDZAUb4/UkAr9wsO-OI/AAAAAAAADg4/62IL0G606Pw/s1600/Screen+Shot+2013-09-23+at+12.53.52.png)

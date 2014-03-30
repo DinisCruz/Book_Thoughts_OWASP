@@ -2,40 +2,17 @@
 
 For a while now, my view is that OWASP's Mission, Focus and Vision should just be: **_"WEB APPLICATION SECURITY"_**  
 
-
-**  
-**
-
 That's it. OWASP's community and scope is so wide (a great thing) that trying to be even more specific will end up in a massive thread and unproductive discussion (where just about everybody will be a bit right about something)
-
-  
-  
-
 
 In you look at the current text in the [owasp](https://www.owasp.org/) home page (which I helped to write) it says:
 
-  
-
-
 _The Open Web Application Security Project (OWASP) is a 501(c)(3) worldwide not-for-profit charitable organization focused on improving the security of software. Our mission is to make software security visible, so that individuals and organizations worldwide can make informed decisions about true software security risks._
-
-_  
-_
 
 I don't really agree with this mission, since for example I think that OWASP should be ["Making Security Invisible (by Becoming the Developer's Best Friends)"](http://blog.diniscruz.com/2012/04/making-security-invisible-by-becoming.html). I.e. **Invisible** not **Visible** :)
 
-  
-
-
 Also, where is '_writing secure cod_e' on that mission :)
 
-  
-
-
 That said there is (some) value in documenting and talking about values and principles, so while writing the [Private threads are SO inefficient, Application Security Knowledge is available at the point of Need, and Password Hashes over SSL](http://blog.diniscruz.com/2013/01/private-threads-are-so-inefficient.html) post, I had a look at the [NHS core principles](http://www.nhs.uk/NHSEngland/thenhs/about/Pages/nhscoreprinciples.aspx) and [constitution](http://www.nhs.uk/choiceintheNHS/Rightsandpledges/NHSConstitution/Pages/Overview.aspx), and I wonder if we can re-write them :)
-
-  
-
 
 Here are the seven key principles that guide the NHS, _'OWASP Style':_  
 
@@ -50,12 +27,6 @@ Here are the seven key principles that guide the NHS, _'OWASP Style':_
 
 This would of course mean that OWASP's OpsTeam (the current employees) take a much stronger role, and that the OWASP 'machine' is given the resources/authority to become the _strong services oriented _team that it wants to be.
 
-_  
-_
-
 A key challenge will be to do this without paying OWASP leaders (NHS does pay its doctors) which in my view shouldn't be done. See [Why OWASP can't pay OWASP Leaders](http://blog.diniscruz.com/2012/04/why-owasp-cant-pay-owasp-leaders.html) and [On how to get paid to work on OWASP projects](http://blog.diniscruz.com/2013/01/on-how-to-get-paid-to-work-on-owasp.html) 
-
-  
-
 
 Maybe I should add these principles to the list I wrote at [I wish that OWASP in 2014 ...](http://blog.diniscruz.com/2012/11/i-wish-that-owasp-in-2014.html) 
