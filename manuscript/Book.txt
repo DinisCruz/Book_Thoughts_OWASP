@@ -1,19 +1,36 @@
 {frontmatter}
 
-0.Introduction/_Intro.md
+0.Introduction/README.md
+0.Introduction/Change_Log.md
+0.Introduction/Why This book.md
 
-1.OWASP Organization/_Intro.md
+1.OWASP Organization/README.md
+1.OWASP Organization/An_Idea_of_a_New_Model_for_owasp.md
+1.OWASP Organization/I wish that OWASP in 2014.md
+1.OWASP Organization/Improved_Wikipedia_funding_page_why_OWASP_needs_something_similar_and_who_buys_OWASP_Corporate_Memberships.md
+1.OWASP Organization/Me and Jim Manico.md
+1.OWASP Organization/On John Wilander.md
+1.OWASP Organization/OWASP Board Election -  Why I voted 'Abstain' and why you should go on the record with your vote.md
+1.OWASP Organization/OWASP Executive Director Role (Not yet).md
+1.OWASP Organization/OWASP Principles based on NHS.md
+1.OWASP Organization/OWASP Revenue Splits and the 'Non-profits have a charter to be innovators'.md
+1.OWASP Organization/Proposed change for SoC - Use budget to pay for project related expenses.md
+1.OWASP Organization/Remove all commercial non-OWASP logos from OWASP.org.md
+1.OWASP Organization/Sarah Baso as OWASP Executive director, how it broke the model, structure and culture of OWASP employees.md
+1.OWASP Organization/Why OWASP can't pay OWASP Leaders.md
+1.OWASP Organization/Why the need to enable the use of OWASP chapter funds.md
+1.OWASP Organization/Why NDAs have no place at OWASP.md
 
-2.OWASP Projects/_Intro.md
+2.OWASP Projects/README.md
 
-3.OWASP Summits/_Intro.md
+3.OWASP Summits/README.md
 
-4.OWASP Education/_Intro.md
+4.OWASP Education/README.md
 
-5.OWASP MIA/_Intro.md
+5.OWASP MIA/README.md
 
-6.Philosophy/_Intro.md
+6.Philosophy/README.md
 
-7.Security Industry/_Intro.md
+7.Security Industry/README.md
 
 {mainmatter}
