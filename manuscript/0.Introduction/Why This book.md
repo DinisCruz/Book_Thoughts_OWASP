@@ -27,6 +27,7 @@ Here are the posts removed:
  * "WebGoat.NET in Action (and how I set-it up)"
 
 ** posts about specific OWASP Events (most of which are now not relevant)**
+
 * "Call For Training - OWASP 2013 LATAM Tour"
 * "OWASP Connector January 22, 2013"
 * "OWASP Connector January 8, 2013"
@@ -36,6 +37,7 @@ Here are the posts removed:
 * "The Projects Summit 2013 is happening: GET INVOLVED!!!!"
 
 ** misc topics**
+
 * "Great animation that shows how BootStrapToday works"
 * "OWASP Press and using LeanPub with GitHub and DropBox"
 * "SI Open Sources the Eclipse Plugin-development toolkit that I developed for TeamMentor"
