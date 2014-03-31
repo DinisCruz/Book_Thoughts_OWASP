@@ -26,7 +26,7 @@ Here are the posts removed:
 * "Trying Google Groups as the OWASP O2 Platform mailing list"
  * "WebGoat.NET in Action (and how I set-it up)"
 
-** posts about specific OWASP Events (most of which are now not relevant)**
+**posts about specific OWASP Events (most of which are now not relevant)**
 
 * "Call For Training - OWASP 2013 LATAM Tour"
 * "OWASP Connector January 22, 2013"
@@ -36,7 +36,7 @@ Here are the posts removed:
 * "Presenting at OWASP Turkey Chapter on Sat 10th of November (on Secure Continuous Delivery)"
 * "The Projects Summit 2013 is happening: GET INVOLVED!!!!"
 
-** misc topics**
+**misc topics**
 
 * "Great animation that shows how BootStrapToday works"
 * "OWASP Press and using LeanPub with GitHub and DropBox"
