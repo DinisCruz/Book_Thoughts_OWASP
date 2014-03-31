@@ -46,7 +46,7 @@ _The first initiative is the 'Funds Available for OWASP Projects' (see details a
   * _Project Leader: Dinis Cruz_
   * _Proposals Review Team: Dennis Groves, Daniel Cuthbert, Dinis Cruz ... (more to be announced)_
 
-##  _Initiative: Funds Available for OWASP Projects_
+###  _Initiative: Funds Available for OWASP Projects_
 
 _**What:** OWASP Project Sponsorship model where OWASP Leaders can spend up-to the current allocated budget on OWASP Projects_
 
