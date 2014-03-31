@@ -41,10 +41,53 @@
 
 3.OWASP Summits/README.md
 
+3.OWASP Summits/Great_description_of_why_OWASP_Summits_are_special.md
+3.OWASP Summits/I want to vote for a Summit Team and Vision , NOT for a venue.md
+3.OWASP Summits/OWASP Flight Booking using Amex and Project's Mini-Summit at OWASP AppSec USA 2013.md
+3.OWASP Summits/Some proposed Visions for next OWASP Summit.md
+3.OWASP Summits/Summits must be part of OWASP's DNA.md
+3.OWASP Summits/When is the next OWASP Summit.md
+
 4.OWASP Education/README.md
+
+4.OWASP Education/Let's make this happen 'Investing in Developing Software Security Talent'.md
+4.OWASP Education/PDF with (draft) Exam of OWASP Top10 questions.md
+
 
 5.OWASP MIA/README.md
 
+5.OWASP MIA/'Using the HTML5 Fullscreen API for Phishing Attacks', OWASP MIA and 'We need SAST technology for browsing the web safely'.md
+5.OWASP MIA/Big_Security_Challenges_with_Creating_APIs_for_US_Gov_Agencies.md
+5.OWASP MIA/Example_example_of_SQL_Injection_using_Database.SQLQuery_from_GitHub.md
+5.OWASP MIA/Guidelines_of_Owasp.md
+5.OWASP MIA/Hack_Yourself_First_Jeremiah_at_TEDxMaui.md
+5.OWASP MIA/I think the time as come for OWASP to have its own secure browser.md
+5.OWASP MIA/Nice list of 20 online coding tools.md
+5.OWASP MIA/No OWASP app on the OSX AppStore (Nov 2013).md
+5.OWASP MIA/OWASP and Privacy issues, we need to be involved.md
+5.OWASP MIA/Software Labels - Jeff's OWASP AppSecDC 2010 presentation (another dropped good idea).md
+
+
 6.Philosophy/README.md
 
+6.Philosophy/Happiness_makes_business_sense.md
+6.Philosophy/The power of not being in power (and being ignored).md
+6.Philosophy/We're all mortals, so lets make the most of it.md
+6.Philosophy/Why do others think that I'm "hard to deal with" and that "I don't listen".md
+
 7.Security Industry/README.md
+7.Security Industry/Secure coding (and Application Security) must be invisible to developers.md
+7.Security Industry/Blogger_in_HTTP_only_What_Happened_to_HTTPS.md
+7.Security Industry/CI_is_the_Key_for_Application_Security_SDL_integration.md
+7.Security Industry/Etsy.com_-_A_case_study_on_how_to_do_security_right.md
+7.Security Industry/Open question to Etsy security team - How can OWASP help.md
+7.Security Industry/FLOSSHack_TeamMentor_and_the_sausage_making_process_that_is_software_application_development.md
+7.Security Industry/I_never_liked_the_term_Rugged_Software_what_about_Robust_Resilient_Software.md
+7.Security Industry/Is_there_a_spreadsheet_template_for_Mapping_WebServices_Authorization_Rules.md
+7.Security Industry/The next level App Security Social Graph.md
+7.Security Industry/Trustworthy Internet Movement and SSL Pulse.md
+7.Security Industry/Where to have AppSec Q_n_A threads (what about Reddit).md
+7.Security Industry/Is the TeamMentor OWASP Library content released under an open License.md
+7.Security Industry/Reaching out to Developers, Aspect is doing it right with Contrast.md
+7.Security Industry/My comments on the SATEC document (Static Analysis Tool Evaluation Criteria).md
+
