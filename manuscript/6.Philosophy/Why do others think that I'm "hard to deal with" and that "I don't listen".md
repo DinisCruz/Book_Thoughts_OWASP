@@ -71,13 +71,7 @@ My instinct (who I tend to trust a lot), is kinda pointing me to this:
     * If I ask the questions during the **DefCon D)** mode, I already have a lot of thinking about the problem, and have raised a lot the bar for somebody to productively collaborate.
     * If I ask the questions during the **DefCon E)** mode, its even worse.
 
-_  
-_
-
 A final point I would like to make, is that sometimes the complain made is a variation of _'Dinis is not listening to us and is blocking out our ideas'. _
-
-  
-
 
 I'm going to be blunt on this one, but this is usually BS:
 
@@ -92,37 +86,21 @@ I'm going to be blunt on this one, but this is usually BS:
 
 I would also like to add that I always try to do the most ethical and morally-right thing. I'm sure I don't always get it right, but I do genuinely like to help others, and really enjoy making connections and serendipity (i.e. when you grab two separate persons/activities and put them together in an environment where something special happens). 
 
-  
-
-
 I also like to live by the '_[Karma](http://en.wikipedia.org/wiki/Karma) points'_ model (as in "_...if one sows goodness, one will reap goodness;..."_) and never really expect anything directly back after doing a good deed, helping others or just being kind.
-
-  
-
 
 I guess after all this, I'm not sure how I should change :)
 
-  
-
-
 I work hard for the things I believe, I do put in the time/effort, I am still helping others, and I do have good track record of creating 'stuff' that makes a difference. 
-
-  
-
 
 So I guess, I'll use this post in the future to point to somebody that currently thinks that I'm "_hard to deal with" _and_ I "don't listen"_, and just say: 
 
-  
-
-
 _... hey this is how I am...._
-
-_  
-_
 
 _...sorry about not 'listening' to you..._
 
-_  
-_
+_... got any more ideas about the problem we're trying to solve...   :) ...._
 
-_... got any more ideas about the problem we're trying to solve...   :) .... __ _
+
+### References and related material
+
+* [The Surprisingly Large Cost of Telling Small Lies](http://boss.blogs.nytimes.com/2014/03/11/the-surprisingly-large-cost-of-telling-small-lies)
