@@ -25,7 +25,7 @@ This is the current table of contents of the book. If you have any ideas or suge
 * [Me and Jim Manico](/manuscript/1.OWASP_Organization/Me_and_Jim_Manico.md)
 * [On John Wilander](/manuscript/1.OWASP_Organization/On_John_Wilander.md)
 
-** [2.OWASP Projects](/manuscript/2.OWASP_Projects/README.md)**
+**[2.OWASP Projects](/manuscript/2.OWASP_Projects/README.md)**
 
 * [160k USD Available to OWASP Chapters and Projects](/manuscript/2.OWASP_Projects/160k_USD_Available_to_OWASP_Chapters_and_Projects.md)
 * [If you ever doubt that OWASP needs more Project Managers Resources](/manuscript/2.OWASP_Projects/If_you_ever_doubt_that_OWASP_needs_more_Project_Managers_Resources.md)
@@ -76,7 +76,7 @@ This is the current table of contents of the book. If you have any ideas or suge
 * [We're all mortals, so lets make the most of it](/manuscript/6.Philosophy/We're_all_mortals,_so_lets_make_the_most_of_it.md)
 * [Why do others think that I'm "hard to deal with" and that "I don't listen"](/manuscript/6.Philosophy/Why_do_others_think_that_I'm_hard_to_deal_with_and_that_I_don't_listen.md)
 
-* [7.Security Industry](/manuscript/7.Security_Industry/README.md)
+**[7.Security Industry](/manuscript/7.Security_Industry/README.md)**
 
 * [Secure coding (and Application Security) must be invisible to developers](/manuscript/7.Security_Industry/Secure_coding_(and_Application_Security)_must_be_invisible_to_developers.md)
 * [Blogger in HTTP only What Happened to HTTPS](/manuscript/7.Security_Industry/Blogger_in_HTTP_only_What_Happened_to_HTTPS.md)
