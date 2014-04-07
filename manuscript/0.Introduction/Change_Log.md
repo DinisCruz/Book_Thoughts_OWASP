@@ -5,6 +5,7 @@ Here are the changes made (per version):
 **v0.12 (.. April)**   
 
 * Renamed all files (using FluentSharp script) so that they all have Underscores instead of spaces (making them easier to link in GitHub)
+* Updated main README.md file. Added Table_of_Contents.md file for GitHub
 
 **v0.11 (30 March)**    
 
