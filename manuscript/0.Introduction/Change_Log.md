@@ -18,3 +18,8 @@ moved them into 'Chapter specific' folder (which works when there are no images)
 
 * First release of book with raw import from blogger posts (no formatting or editing done)
 * added cover to eBook version
+
+
+
+- - - - 
+[Table of Contents](../../Table_of_contents.md) 

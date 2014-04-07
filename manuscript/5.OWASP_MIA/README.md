@@ -11,4 +11,8 @@ This section has the following chapters:
 * Nice list of 20 online coding tools.md
 * No OWASP app on the OSX AppStore (Nov 2013).md
 * OWASP and Privacy issues, we need to be involved.md
-* Software Labels - Jeff's OWASP AppSecDC 2010 presentation (another dropped good idea).md
+* Software Labels - Jeff's OWASP AppSecDC 2010 presentation (another dropped good idea).md\
+
+
+- - - - 
+[Table of Contents](../../Table_of_contents.md) 
