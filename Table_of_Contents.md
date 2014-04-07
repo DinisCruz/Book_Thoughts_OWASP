@@ -7,12 +7,12 @@ This is the current table of contents of the book. If you have any ideas or suge
 * [Why This book](/manuscript/0.Introduction/Why_This_book.md)
 
 
-**[1.OWASP_Organization](OWASP Organization(/manuscript/1.OWASP_Organization/README.md)**
+**[1.OWASP Organization](/manuscript/1.OWASP_Organization/README.md)**
 
 * [An Idea of a New Model for owasp](/manuscript/1.OWASP_Organization/An_Idea_of_a_New_Model_for_owasp.md)
 * [I wish that OWASP in 2014](/manuscript/1.OWASP_Organization/I_wish_that_OWASP_in_2014.md)
-* [Improved Wikipedia funding page why OWASP needs something similar and who buys OWASP Corporate Memberships](1.OWASP_Organization/Improved_Wikipedia_funding_page_why_OWASP_needs_something_similar_and_who_buys_OWASP_Corporate_Memberships.md)
-* [OWASP Board Election -  Why I voted 'Abstain' and why you should go on the record with your vote](1.OWASP_Organization/OWASP_Board_Election_-__Why_I_voted_'Abstain' and_why_you_should_go_on_the_record_with_your_vote.md)
+* [Improved Wikipedia funding page why OWASP needs something similar and who buys OWASP Corporate Memberships](/manuscript/1.OWASP_Organization/Improved_Wikipedia_funding_page_why_OWASP_needs_something_similar_and_who_buys_OWASP_Corporate_Memberships.md)
+* [OWASP Board Election -  Why I voted 'Abstain' and why you should go on the record with your vote](/manuscript/1.OWASP_Organization/OWASP_Board_Election_-__Why_I_voted_'Abstain' and_why_you_should_go_on_the_record_with_your_vote.md)
 * [OWASP Executive Director Role (Not yet)](/manuscript/1.OWASP_Organization/OWASP_Executive_Director_Role_(Not_yet).md)
 * [OWASP Principles based on NHS](/manuscript/1.OWASP_Organization/OWASP_Principles_based_on_NHS.md)
 * [OWASP Revenue Splits and the 'Non-profits have a charter to be innovators'](/manuscript/1.OWASP_Organization/OWASP_Revenue_Splits_and_the_'Non-profits_have_a_charter_to_be_innovators'.md)
@@ -25,22 +25,22 @@ This is the current table of contents of the book. If you have any ideas or suge
 * [Me and Jim Manico](/manuscript/1.OWASP_Organization/Me_and_Jim_Manico.md)
 * [On John Wilander](/manuscript/1.OWASP_Organization/On_John_Wilander.md)
 
-* [](/manuscript/2.OWASP_Projects/README.md)
+** [2.OWASP Projects](/manuscript/2.OWASP_Projects/README.md)**
 
-* [](/manuscript/2.OWASP_Projects/160k_USD_Available_to_OWASP_Chapters_and_Projects.md)
-* [](/manuscript/2.OWASP_Projects/If_you_ever_doubt_that_OWASP_needs_more_Project_Managers_Resources.md)
-* [](/manuscript/2.OWASP_Projects/On_how_to_get_paid_to_work_on_OWASP_projects.md)
-* [](/manuscript/2.OWASP_Projects/OWASP_GSD_Project_(Get_Stuff_Done).md)
-* [](/manuscript/2.OWASP_Projects/OWASP_Project_Reboot_2012_-_Here_is_a_better_model.md)
-* [](/manuscript/2.OWASP_Projects/OWASP_project_reboot_spent_funds_(not_a_lot_spent_so_far).md)
-* [](/manuscript/2.OWASP_Projects/Project_Management_at_OWASP.md)
-* [](/manuscript/2.OWASP_Projects/ROI_on_OWASP_investment_on_Projects_(ie_paying_leaders).md)
-* [](/manuscript/2.OWASP_Projects/Some_ideas_for_OWASP_GSD_Project.md)
-* [](/manuscript/2.OWASP_Projects/The_difference_between_being_'Appointed'_and_being_'Accepted'_as_an_OWASP_Leader_(of_its_Fork).md)
-* [](/manuscript/2.OWASP_Projects/Why_large_OWASP_projects_start_to_stale_(and_who_should_pay_for_the_work).md)
+* [160k USD Available to OWASP Chapters and Projects](/manuscript/2.OWASP_Projects/160k_USD_Available_to_OWASP_Chapters_and_Projects.md)
+* [If you ever doubt that OWASP needs more Project Managers Resources](/manuscript/2.OWASP_Projects/If_you_ever_doubt_that_OWASP_needs_more_Project_Managers_Resources.md)
+* [On how to get paid to work on OWASP projects](/manuscript/2.OWASP_Projects/On_how_to_get_paid_to_work_on_OWASP_projects.md)
+* [OWASP GSD Project (Get Stuff Done)](/manuscript/2.OWASP_Projects/OWASP_GSD_Project_(Get_Stuff_Done).md)
+* [OWASP Project Reboot 2012 - Here is a better model](/manuscript/2.OWASP_Projects/OWASP_Project_Reboot_2012_-_Here_is_a_better_model.md)
+* [OWASP project reboot spent funds (not a lot spent so far)](/manuscript/2.OWASP_Projects/OWASP_project_reboot_spent_funds_(not_a_lot_spent_so_far).md)
+* [Project Management at OWASP](/manuscript/2.OWASP_Projects/Project_Management_at_OWASP.md)
+* [ROI on OWASP investment on Projects (ie paying leaders)](/manuscript/2.OWASP_Projects/ROI_on_OWASP_investment_on_Projects_(ie_paying_leaders).md)
+* [Some ideas for OWASP GSD Project](/manuscript/2.OWASP_Projects/Some_ideas_for_OWASP_GSD_Project.md)
+* [The difference between being 'Appointed' and being 'Accepted' as an OWASP Leader (of its Fork)](/manuscript/2.OWASP_Projects/The_difference_between_being_'Appointed'_and_being_'Accepted'_as_an_OWASP_Leader_(of_its_Fork).md)
+* [Why large OWASP projects start to stale (and who should pay for the work)](/manuscript/2.OWASP_Projects/Why_large_OWASP_projects_start_to_stale_(and_who_should_pay_for_the_work).md)
 
 
-* [](/manuscript/3.OWASP_Summits/README.md)
+** [3.OWASP Summits](/manuscript/3.OWASP_Summits/README.md)**
 
 * [](/manuscript/3.OWASP_Summits/Great_description_of_why_OWASP_Summits_are_special.md)
 * [](/manuscript/3.OWASP_Summits/I_want_to_vote_for_a_Summit_Team_and_Vision_,_NOT_for_a_venue.md)
