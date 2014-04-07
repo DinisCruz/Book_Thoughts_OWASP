@@ -73,9 +73,10 @@
 6.Philosophy/Happiness_makes_business_sense.md
 6.Philosophy/The_power_of_not_being_in_power_(and_being_ignored).md
 6.Philosophy/We're_all_mortals,_so_lets_make_the_most_of_it.md
-6.Philosophy/Why_do_others_think_that_I'm_"hard_to_deal_with"_and_that_"I_don't_listen".md
+6.Philosophy/Why_do_others_think_that_I'm_hard_to_deal_with_and_that_I_don't_listen.md
 
 7.Security_Industry/README.md
+
 7.Security_Industry/Secure_coding_(and_Application_Security)_must_be_invisible_to_developers.md
 7.Security_Industry/Blogger_in_HTTP_only_What_Happened_to_HTTPS.md
 7.Security_Industry/CI_is_the_Key_for_Application_Security_SDL_integration.md
