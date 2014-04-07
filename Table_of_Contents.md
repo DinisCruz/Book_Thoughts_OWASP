@@ -3,17 +3,17 @@ This is the current table of contents of the book. If you have any ideas or suge
 
 **[Introduction](/manuscript/0.Introduction/README.md)** 
 
-* [Change Log](0.Introduction/Change_Log.md)
-* [Why This book](0.Introduction/Why_This_book.md)
+* [Change Log](/manuscript/0.Introduction/Change_Log.md)
+* [Why This book](/manuscript/0.Introduction/Why_This_book.md)
 
 
-* []OWASP Organization(1.OWASP_Organization/README.md)
+* []OWASP Organization(/manuscript/1.OWASP_Organization/README.md)
 
-* [An Idea of a New Model for owasp](1.OWASP_Organization/An_Idea_of_a_New_Model_for_owasp.md)
-* [I wish that OWASP in 2014](1.OWASP_Organization/I_wish_that_OWASP_in_2014.md)
+* [An Idea of a New Model for owasp](/manuscript/1.OWASP_Organization/An_Idea_of_a_New_Model_for_owasp.md)
+* [I wish that OWASP in 2014](/manuscript/1.OWASP_Organization/I_wish_that_OWASP_in_2014.md)
 * [Improved Wikipedia funding page why OWASP needs something similar and who buys OWASP Corporate Memberships](1.OWASP_Organization/Improved_Wikipedia_funding_page_why_OWASP_needs_something_similar_and_who_buys_OWASP_Corporate_Memberships.md)
-* [](1.OWASP_Organization/OWASP_Board_Election_-__Why_I_voted_'Abstain'_and_why_you_should_go_on_the_record_with_your_vote.md)
-* [](1.OWASP_Organization/OWASP_Executive_Director_Role_(Not_yet).md)
+* [OWASP Board Election -  Why I voted 'Abstain' and why you should go on the record with your vote](1.OWASP_Organization/OWASP_Board_Election_-__Why_I_voted_'Abstain'_and_why_you_should_go_on_the_record_with_your_vote.md)
+* [OWASP_Executive_Director_Role_(Not_yet)](/manuscript/1.OWASP_Organization/OWASP_Executive_Director_Role_(Not_yet).md)
 * [](1.OWASP_Organization/OWASP_Principles_based_on_NHS.md)
 * [](1.OWASP_Organization/OWASP_Revenue_Splits_and_the_'Non-profits_have_a_charter_to_be_innovators'.md)
 * [](1.OWASP_Organization/Proposed_change_for_SoC_-_Use_budget_to_pay_for_project_related_expenses.md)

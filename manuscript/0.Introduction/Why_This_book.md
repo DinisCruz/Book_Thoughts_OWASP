@@ -6,6 +6,10 @@ I also think that it is important for the new generations of OWASP Leaders to un
 
 Also captured in this book are a number of mine 'soul searching' and 'philosophy' based posts. I hope you like them :)
 
+### GitHub Repository
+
+The content (and version control) of this book is managed using Git. The GitHub repository is the https://github.com/DinisCruz/Book_Thoughts_OWASP and you are free to fork it and use the content as you please
+
 ### The selection criteria
 
 The initial import from my blog was made of 76 blog posts which resulted in an book with 256 pages and 54,277 words. Part of that list where a number of posts that covered a wide range of OWASP topics (which is why I used the OWASP tag them on them), but since this is more of a 'ideas' book, I used the following criteria to trim the content (also note that most of this posts will exist on other books).

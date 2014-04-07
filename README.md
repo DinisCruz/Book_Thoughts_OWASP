@@ -16,7 +16,7 @@ The book is still under development, so if you spot any issues or have recommend
 * [6,Philosophy](/manuscript/6.Philosophy/README.md)
 * [7.Security_Industry](/manuscript/7.Security_Industry/README.md)
 
-See [Table of Contents](/Table_of_contents.md) for the full list of chapters
+See [Table of Contents](/Table_of_Contents.md) for the full list of chapters
 
 
 ## Issues and Discussion group
