@@ -1,36 +1,39 @@
-
 {frontmatter}
 
-Introduction/Introduction.md
-Introduction/Change_Log.md
-Introduction/Why_This_book.md
+0.Introduction/README.md
+0.Introduction/Change_Log.md
+0.Introduction/Why_This_book.md
 
 {mainmatter}
 
-Sec Industry/_Intro.md
-Sec_Industry/Blogger_in_HTTP_only_What_Happened_to_HTTPS.md
-Sec_Industry/Etsy.com_-_A_case_study_on_how_to_do_security_right.md
-Sec_Industry/My comments on the SATEC document (Static Analysis Tool Evaluation Criteria).md
+1.OWASP_Organization/README.md
 
-OWASP Organization/_Intro.md
-OWASP Organization/An_Idea_of_a_New_Model_for_owasp.md
-OWASP Organization/Improved_Wikipedia_funding_page_why_OWASP_needs_something_similar_and_who_buys_OWASP_Corporate_Memberships.md
+1.OWASP_Organization/An_Idea_of_a_New_Model_for_owasp.md
+1.OWASP_Organization/I_wish_that_OWASP_in_2014.md
+1.OWASP_Organization/Improved_Wikipedia_funding_page_why_OWASP_needs_something_similar_and_who_buys_OWASP_Corporate_Memberships.md
+1.OWASP_Organization/OWASP_Board_Election_-__Why_I_voted_'Abstain'_and_why_you_should_go_on_the_record_with_your_vote.md
+1.OWASP_Organization/OWASP_Executive_Director_Role_(Not_yet).md
+1.OWASP_Organization/OWASP_Principles_based_on_NHS.md
+1.OWASP_Organization/OWASP_Revenue_Splits_and_the_'Non-profits_have_a_charter_to_be_innovators'.md
+1.OWASP_Organization/Proposed_change_for_SoC_-_Use_budget_to_pay_for_project_related_expenses.md
+1.OWASP_Organization/Remove_all_commercial_non-OWASP_logos_from_OWASP.org.md
+1.OWASP_Organization/Sarah_Baso_as_OWASP_Executive_director,_how_it_broke_the_model,_structure_and_culture_of_OWASP_employees.md
+1.OWASP_Organization/Why_OWASP_can't_pay_OWASP_Leaders.md
+1.OWASP_Organization/Why_the_need_to_enable_the_use_of_OWASP_chapter_funds.md
+1.OWASP_Organization/Why_NDAs_have_no_place_at_OWASP.md
+1.OWASP_Organization/Me_and_Jim_Manico.md
+1.OWASP_Organization/On_John_Wilander.md
 
+2.OWASP_Projects/README.md
 
-OWASP Education/_Intro.md
-OWASP Education/Let's make this happen 'Investing in Developing Software Security Talent'.md
-
-OWASP Summits/_Intro.md
-OWASP Summits/Great_description_of_why_OWASP_Summits_are_special.md
-OWASP Summits/Summits must be part of OWASP's DNA.md
-
-# OWASP MIA
-OWASP Education/_Intro.md
-OWASP MIA/Big_Security_Challenges_with_Creating_APIs_for_US_Gov_Agencies.md
-OWASP MIA/Example_example_of_SQL_Injection_using_Database.SQLQuery_from_GitHub.md
-OWASP MIA/Guidelines_of_Owasp.md
-OWASP MIA/Hack_Yourself_First_Jeremiah_at_TEDxMaui.md
-
-# TeamMentor
-OWASP Education/_Intro.md
-TeamMentor/Is the TeamMentor OWASP Library content released under an open License.md
+2.OWASP_Projects/160k_USD_Available_to_OWASP_Chapters_and_Projects.md
+2.OWASP_Projects/If_you_ever_doubt_that_OWASP_needs_more_Project_Managers_Resources.md
+2.OWASP_Projects/On_how_to_get_paid_to_work_on_OWASP_projects.md
+2.OWASP_Projects/OWASP_GSD_Project_(Get_Stuff_Done).md
+2.OWASP_Projects/OWASP_Project_Reboot_2012_-_Here_is_a_better_model.md
+2.OWASP_Projects/OWASP_project_reboot_spent_funds_(not_a_lot_spent_so_far).md
+2.OWASP_Projects/Project_Management_at_OWASP.md
+2.OWASP_Projects/ROI_on_OWASP_investment_on_Projects_(ie_paying_leaders).md
+2.OWASP_Projects/Some_ideas_for_OWASP_GSD_Project.md
+2.OWASP_Projects/The_difference_between_being_'Appointed'_and_being_'Accepted'_as_an_OWASP_Leader_(of_its_Fork).md
+2.OWASP_Projects/Why_large_OWASP_projects_start_to_stale_(and_who_should_pay_for_the_work).md
